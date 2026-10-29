@@ -1,0 +1,728 @@
+# 건강검진 안전 경고 규칙 (교육용 프로토타입)
+#
+# 각 규칙 = 조건(when) → 경고 수준(level) → 담당 검사실(stations) → 조치(actions) + 근거(evidence)
+#   level: red = 고위험(검사 전 반드시 조치/의료진 확인), yellow = 주의
+#   basis: guideline = 지침에 기준이 명시됨 / adapted = 지침 내용을 팀이 검진 상황에 맞게 조합
+#          team = 팀이 임의로 정한 기준(근거 약함 → 지도교수 검토 필요)
+#   suppressed_by: 더 구체적인 규칙이 발동하면 이 규칙은 숨김(중복 경고 방지)
+#
+# ⚠ 모든 기준값은 학생 팀이 문헌을 바탕으로 정리한 것으로, 실제 임상 적용 전 전문가 검토가 필요합니다.
+# 조건 문법: {field: x, lt/le/gt/ge/eq/in: 값} | {field: x, missing: true} | {exam: [...]} | {all: [...]} | {any: [...]} | {not: {...}}
+
+rules:
+  # ───────────────────────── A. 채혈: 실신·출혈 ─────────────────────────
+  - id: A1
+    module: 채혈 실신
+    level: red
+    basis: adapted
+    title: 혈관미주신경성 실신 고위험 (과거 실신 + 현재 위험요인)
+    stations: [채혈실]
+    when:
+      all:
+        - exam: blood_draw
+        - field: prior_syncope_blood
+          eq: true
+        - any:
+            - field: sbp
+              lt: 100
+            - field: bmi
+              lt: 18.5
+            - field: dehydration
+              eq: true
+            - field: fasting_hours
+              ge: 12
+    why: 과거 채혈 중 실신은 재발의 가장 강한 예측인자이며, 낮은 혈압·저체중(적은 순환혈액량)·탈수·장시간 금식이 겹치면 위험이 커진다.
+    actions:
+      - 처음부터 누운 자세(앙와위)로 채혈
+      - 채혈 후 최소 10분 누운 채 관찰, 천천히 앉았다 일어나도록 안내
+      - 어지럼·식은땀·창백 시 즉시 다리 올리고 의료진 호출
+    evidence: [ESC_SYNCOPE, WHO_PHLEB, DONOR_VVR]
+
+  - id: A2
+    module: 채혈 실신
+    level: yellow
+    basis: adapted
+    title: 실신 경험 또는 주사 공포
+    stations: [채혈실]
+    suppressed_by: [A1]
+    when:
+      all:
+        - exam: blood_draw
+        - any:
+            - field: prior_syncope_blood
+              eq: true
+            - field: needle_fear
+              eq: true
+    why: 통증·공포는 혈관미주신경성 실신의 대표적 유발요인이다.
+    actions:
+      - 의자 등받이 젖히거나 누워서 채혈할지 본인에게 확인
+      - 바늘을 보지 않게 하고 대화로 불안 완화
+      - 채혈 후 5~10분 앉아서 관찰
+    evidence: [ESC_SYNCOPE, WHO_PHLEB]
+
+  - id: A3
+    module: 채혈 실신
+    level: yellow
+    basis: adapted
+    title: 저체중 + 저혈압 (실신 경험 없음)
+    stations: [채혈실]
+    suppressed_by: [A1]
+    when:
+      all:
+        - exam: blood_draw
+        - field: bmi
+          lt: 18.5
+        - field: sbp
+          lt: 100
+    why: 순환혈액량이 적고 혈압이 낮으면 채혈 후 기립 시 어지럼·실신 위험이 높다.
+    actions:
+      - 기대거나 누운 자세 채혈 권장
+      - 채혈 후 천천히 일어나도록 안내, 5~10분 관찰
+    evidence: [DONOR_VVR, WHO_BMI]
+
+  - id: A4
+    module: 채혈 실신
+    level: yellow
+    basis: team
+    title: 저혈압 (수축기 < 90 mmHg)
+    stations: [채혈실, 신체계측]
+    suppressed_by: [A1, A3]
+    when:
+      all:
+        - field: sbp
+          lt: 90
+    why: 낮은 혈압은 채혈·금식 중 어지럼과 낙상 위험을 높인다. 증상이 있으면 의료진 확인이 필요하다.
+    actions:
+      - 어지럼·흉통 등 증상 확인, 증상 있으면 의료진 보고
+      - 채혈은 기대거나 누운 자세로
+    evidence: [ESC_SYNCOPE]
+
+  - id: A5
+    module: 채혈 출혈
+    level: yellow
+    basis: guideline
+    title: 항응고제·항혈소판제 복용
+    stations: [채혈실]
+    when:
+      all:
+        - exam: blood_draw
+        - any:
+            - field: anticoagulant
+              eq: true
+            - field: antiplatelet
+              eq: true
+    why: 채혈 부위 출혈·혈종 위험이 커진다. WHO는 채혈 전 항응고제 복용과 출혈 병력을 확인하도록 권고한다.
+    actions:
+      - 채혈 후 출혈이 멈출 때까지 충분히(5분 이상) 직접 압박
+      - 귀가 전 채혈 부위 혈종 확인
+    evidence: [WHO_PHLEB]
+
+  - id: A6
+    module: 채혈 출혈
+    level: red
+    basis: adapted
+    title: 출혈질환 또는 혈소판 < 50×10³/µL
+    stations: [채혈실, 내시경실]
+    when:
+      all:
+        - exam: [blood_draw, sedation_egd, sedation_colon]
+        - any:
+            - field: bleeding_disorder
+              eq: true
+            - field: platelet
+              lt: 50
+    why: 지혈이 늦어져 채혈 부위 혈종이나 내시경 조직검사 후 출혈이 생길 수 있다.
+    actions:
+      - 채혈 후 장시간 압박, 지혈 확인 후 귀가
+      - 내시경 조직검사·용종절제 전 의료진에게 수치 보고
+    evidence: [WHO_PHLEB, BSG_ESGE]
+
+  - id: A7
+    module: 채혈 실신
+    level: yellow
+    basis: team
+    title: 중증 빈혈 (Hb < 8 g/dL, 과거 기록)
+    stations: [채혈실]
+    when:
+      all:
+        - exam: blood_draw
+        - field: hb
+          lt: 8
+    why: 심한 빈혈이 있으면 금식·채혈 후 어지럼이 악화될 수 있다.
+    actions:
+      - 어지럼·호흡곤란 등 증상 확인
+      - 기대거나 누운 자세 채혈, 관찰 후 귀가
+    evidence: [TEAM]
+
+  # ───────────────────────── B. 금식 중 저혈당 ─────────────────────────
+  - id: B1
+    module: 금식 저혈당
+    level: red
+    basis: adapted
+    title: 당뇨 + 인슐린/설포닐우레아 + 금식 검사
+    stations: [접수·문진, 채혈실, 내시경실]
+    when:
+      all:
+        - field: fasting_exam
+          eq: true
+        - field: diabetes
+          eq: true
+        - any:
+            - field: insulin
+              eq: true
+            - field: sulfonylurea
+              eq: true
+    why: 인슐린과 설포닐우레아는 식사를 거를 때 저혈당을 일으킬 수 있는 대표 약물이다. 혈당 70 mg/dL 미만이면 저혈당이다.
+    actions:
+      - 접수 즉시 현장 혈당 측정
+      - 오늘 아침 약·인슐린 투여 여부 확인, 의료진에게 보고
+      - 가능한 가장 이른 순서로 금식 검사 배정
+      - 검사 후 바로 식사할 수 있도록 안내
+    evidence: [CDC_HYPO, ADA_HYPO]
+
+  - id: B2
+    module: 금식 저혈당
+    level: red
+    basis: guideline
+    title: 현장 혈당 < 70 mg/dL (저혈당)
+    stations: [접수·문진, 채혈실, 내시경실, 신체계측]
+    when:
+      all:
+        - field: glucose_poc
+          lt: 70
+    why: CDC 기준 혈당 70 mg/dL 미만은 저혈당이다.
+    actions:
+      - 즉시 의료진 보고
+      - 의식이 있으면 15-15 규칙(당 15 g 섭취 후 15분 뒤 재측정)을 의료진 지시에 따라 시행
+      - 공복 검사 진행 여부는 의료진이 결정
+    evidence: [CDC_HYPO]
+
+  - id: B3
+    module: 금식 저혈당
+    level: yellow
+    basis: adapted
+    title: 저혈당 병력 + 금식 검사
+    stations: [접수·문진, 채혈실, 내시경실]
+    suppressed_by: [B1, B2]
+    when:
+      all:
+        - field: fasting_exam
+          eq: true
+        - field: hypoglycemia_history
+          eq: true
+    why: 과거 저혈당이 있었던 사람은 장시간 금식 중 재발할 수 있다.
+    actions:
+      - 현장 혈당 측정
+      - 식은땀·떨림·어지럼 증상 교육 및 관찰
+    evidence: [CDC_HYPO]
+
+  # ───────────────────────── C. 조영제 ─────────────────────────
+  - id: C1
+    module: 조영제
+    level: red
+    basis: guideline
+    title: 조영 CT + eGFR < 30 또는 최근 급성신손상
+    stations: [영상의학]
+    when:
+      all:
+        - exam: ct_contrast
+        - any:
+            - field: egfr
+              lt: 30
+            - field: recent_aki
+              eq: true
+    why: ACR-NKF 합의문은 eGFR 30 미만이거나 급성신손상이 있는 환자를 정맥 요오드 조영제 사용 시 고위험군으로 본다.
+    actions:
+      - 영상의학과 의사에게 보고, 조영제 사용 필요성 재평가
+      - 비조영 검사 또는 다른 검사로 대체 가능 여부 검토
+      - 조영제 사용 시 수액 등 예방 조치는 의료진 지시에 따름
+    evidence: [ACR_NKF]
+
+  - id: C2
+    module: 조영제
+    level: yellow
+    basis: adapted
+    title: 조영 CT 예정인데 신기능(eGFR) 정보 없음 + 위험인자
+    stations: [영상의학, 접수·문진]
+    when:
+      all:
+        - exam: ct_contrast
+        - field: egfr
+          missing: true
+        - any:
+            - field: ckd
+              eq: true
+            - field: diabetes
+              eq: true
+            - field: age
+              ge: 60
+    why: 콩팥병·당뇨·고령이 있으면 조영제 투여 전 최근 신기능 확인이 권장된다.
+    actions:
+      - 최근 크레아티닌/eGFR 결과 확인 또는 검사 전 측정
+    evidence: [ACR_NKF, ACR_MANUAL]
+
+  - id: C3
+    module: 조영제
+    level: red
+    basis: guideline
+    title: 과거 조영제 중등도 이상 과민반응
+    stations: [영상의학]
+    when:
+      all:
+        - exam: [ct_contrast, mri_contrast]
+        - field: contrast_reaction
+          eq: moderate_severe
+    why: 같은 계열 조영제에 다시 노출되면 과민반응이 재발할 수 있다.
+    actions:
+      - 영상의학과 의사에게 보고, 과거 반응 종류·사용 조영제 확인
+      - 기관 프로토콜(전처치·대체 조영제·비조영 검사) 적용
+    evidence: [ACR_MANUAL]
+
+  - id: C4
+    module: 조영제
+    level: yellow
+    basis: guideline
+    title: 과거 조영제 경증 반응
+    stations: [영상의학]
+    when:
+      all:
+        - exam: [ct_contrast, mri_contrast]
+        - field: contrast_reaction
+          eq: mild
+    why: 경증 반응 병력도 재노출 전 확인이 필요하다.
+    actions:
+      - 과거 반응 내용 기록, 영상의학과에 공유
+      - 투여 후 관찰
+    evidence: [ACR_MANUAL]
+
+  - id: C5
+    module: 조영제
+    level: yellow
+    basis: guideline
+    title: 가돌리늄 조영 MRI + eGFR < 30 또는 급성신손상
+    stations: [영상의학]
+    when:
+      all:
+        - exam: mri_contrast
+        - any:
+            - field: egfr
+              lt: 30
+            - field: recent_aki
+              eq: true
+    why: 중증 신기능 저하에서는 신원성 전신섬유증(NSF) 위험 때문에 가돌리늄 제제 선택에 주의가 필요하다.
+    actions:
+      - 영상의학과 의사에게 보고, 조영제 종류(Group II) 확인
+    evidence: [ACR_MANUAL]
+
+  # ───────────────────────── D. MRI 안전 ─────────────────────────
+  - id: D1
+    module: MRI 안전
+    level: red
+    basis: guideline
+    title: 체내 삽입 기기 + MRI (심박조율기·ICD·인공와우·약물펌프 등)
+    stations: [영상의학]
+    when:
+      all:
+        - exam: [mri, mri_contrast]
+        - field: implant
+          eq: true
+    why: 자기장에 의해 기기 오작동·발열·이동이 생길 수 있다. 기기의 MR Safe / MR Conditional 여부 확인이 필수다.
+    actions:
+      - 기기 종류·모델명 확인(기기 카드)
+      - MR Conditional 여부와 촬영 조건 확인 전 MRI 진행 금지
+    evidence: [FDA_MRI]
+
+  - id: D2
+    module: MRI 안전
+    level: red
+    basis: guideline
+    title: 금속 이물 가능성 + MRI
+    stations: [영상의학]
+    when:
+      all:
+        - exam: [mri, mri_contrast]
+        - field: metal_fragment
+          eq: true
+    why: 금속 파편(특히 안구 내)은 자기장에서 움직이거나 가열될 수 있다.
+    actions:
+      - 금속 작업력·안구 외상 병력 확인
+      - 필요 시 영상의학과 판단에 따라 사전 X-ray 선별
+    evidence: [FDA_MRI]
+
+  - id: D3
+    module: MRI 안전
+    level: yellow
+    basis: adapted
+    title: 폐쇄공포증
+    stations: [영상의학]
+    when:
+      all:
+        - exam: [mri, mri_contrast]
+        - field: claustrophobia
+          eq: true
+    why: 검사 중 공황으로 검사가 중단될 수 있다.
+    actions:
+      - 검사 과정 사전 설명, 호출 버튼 안내
+      - 필요 시 의료진과 진정·대체 검사 논의
+    evidence: [FDA_MRI]
+
+  # ───────────────────────── E. 임신 ─────────────────────────
+  - id: E1
+    module: 임신
+    level: red
+    basis: guideline
+    title: 임신 중 + 방사선 검사
+    stations: [영상의학]
+    when:
+      all:
+        - exam: [xray, ct_contrast]
+        - field: sex
+          eq: F
+        - field: pregnancy
+          eq: "yes"
+    why: 방사선 검사는 임신 여부를 확인한 뒤 필요성을 판단해야 한다.
+    actions:
+      - 검사 보류, 영상의학과 의사에게 보고
+      - 검사 필요성 재평가 또는 대체 검사 검토
+    evidence: [ACR_PREG]
+
+  - id: E2
+    module: 임신
+    level: yellow
+    basis: guideline
+    title: 가임기 여성, 임신 가능성 미확인 + 방사선 검사
+    stations: [영상의학, 접수·문진]
+    when:
+      all:
+        - exam: [xray, ct_contrast]
+        - field: sex
+          eq: F
+        - field: age
+          ge: 12
+        - field: age
+          le: 55
+        - field: pregnancy
+          in: [unknown, null]
+    why: 가임기 여성은 방사선 검사 전 임신 가능성을 확인해야 한다.
+    actions:
+      - 마지막 월경일·임신 가능성 확인
+      - 불확실하면 의료진 판단에 따라 임신 검사
+    evidence: [ACR_PREG]
+
+  - id: E3
+    module: 임신
+    level: red
+    basis: guideline
+    title: 임신 중 + 가돌리늄 조영 MRI
+    stations: [영상의학]
+    when:
+      all:
+        - exam: mri_contrast
+        - field: pregnancy
+          eq: "yes"
+    why: ACR은 임신 중 가돌리늄 조영제를 일상적으로 쓰지 말고, 이득이 위험보다 클 때만 사용하도록 권고한다.
+    actions:
+      - 조영제 투여 보류, 영상의학과 의사 판단
+    evidence: [ACR_PREG]
+
+  # ───────────────────────── F. 낙상 ─────────────────────────
+  - id: F1
+    module: 낙상
+    level: red
+    basis: adapted
+    title: 65세 이상 + 낙상 경험 또는 보행보조기구
+    stations: [접수·문진, 신체계측, 채혈실, 영상의학, 내시경실, 기능검사실]
+    when:
+      all:
+        - field: age
+          ge: 65
+        - any:
+            - field: fall_history
+              eq: true
+            - field: mobility_aid
+              eq: true
+    why: 과거 낙상과 보행 문제는 노인 낙상의 가장 강한 위험인자다. 검진 중 자세 변경·이동·진정 후 회복이 반복된다.
+    actions:
+      - 보호자 동반 또는 직원 동행, 필요 시 휠체어
+      - 검사대 오르내릴 때 보조, 천천히 자세 변경
+      - 진정 후에는 완전 회복 확인 후 이동
+    evidence: [WORLD_FALLS, CDC_STEADI]
+
+  - id: F2
+    module: 낙상
+    level: yellow
+    basis: adapted
+    title: 낙상 주의 (75세 이상, 낙상 경험, 보행보조기구 중 하나)
+    stations: [접수·문진, 신체계측, 채혈실, 영상의학, 내시경실, 기능검사실]
+    suppressed_by: [F1]
+    when:
+      any:
+        - field: age
+          ge: 75
+        - field: fall_history
+          eq: true
+        - field: mobility_aid
+          eq: true
+    why: 낙상 위험이 있는 수검자다.
+    actions:
+      - 이동·자세 변경 시 보조
+    evidence: [WORLD_FALLS, CDC_STEADI]
+
+  # ───────────────────────── G. 수면(진정) 내시경 ─────────────────────────
+  - id: G1
+    module: 진정 내시경
+    level: red
+    basis: adapted
+    title: 진정 내시경 + 수면무호흡 고위험 (STOP-Bang ≥5, BMI ≥35, OSA 진단)
+    stations: [내시경실]
+    when:
+      all:
+        - field: sedation
+          eq: true
+        - any:
+            - field: stopbang
+              ge: 5
+            - field: bmi
+              ge: 35
+            - field: osa
+              eq: true
+    why: 비만·폐쇄성 수면무호흡은 진정 중 기도 폐쇄와 저산소증 위험을 높인다. ASA 지침은 진정 전 이런 위험인자 평가를 권고한다.
+    actions:
+      - 진정 담당 의사에게 사전 보고
+      - 산소포화도 연속 감시, 기도 확보 장비·산소 준비
+      - 진정제 용량·비진정 검사 여부는 의료진 판단
+    evidence: [ASA_SEDATION, STOPBANG]
+
+  - id: G2
+    module: 진정 내시경
+    level: yellow
+    basis: adapted
+    title: 진정 내시경 + 수면무호흡 중간 위험 (STOP-Bang 3~4 또는 BMI ≥30)
+    stations: [내시경실]
+    suppressed_by: [G1]
+    when:
+      all:
+        - field: sedation
+          eq: true
+        - any:
+            - field: stopbang
+              ge: 3
+            - field: bmi
+              ge: 30
+    why: 코골이·비만 등은 진정 중 호흡 억제 위험을 높일 수 있다.
+    actions:
+      - 진정 담당 의료진에게 공유
+      - 산소포화도 감시 강화
+    evidence: [ASA_SEDATION, STOPBANG, KSSO]
+
+  - id: G3
+    module: 진정 내시경
+    level: red
+    basis: adapted
+    title: 진정 내시경 전 혈압 ≥180/110 mmHg
+    stations: [내시경실, 신체계측]
+    when:
+      all:
+        - field: sedation
+          eq: true
+        - any:
+            - field: sbp
+              ge: 180
+            - field: dbp
+              ge: 110
+    why: 혈압이 매우 높으면 진정 시술 전 의료진의 진행 여부 판단이 필요하다(마취 분야 문헌에서 180/110 이상은 연기 고려 기준으로 쓰임).
+    actions:
+      - 안정 후 재측정
+      - 재측정 후에도 높으면 의료진이 진행 여부 결정
+    evidence: [HOWELL_HTN]
+
+  - id: G4
+    module: 진정 내시경
+    level: yellow
+    basis: guideline
+    title: 대장내시경 + 항응고제·항혈소판제 (용종절제 출혈)
+    stations: [내시경실]
+    when:
+      all:
+        - exam: sedation_colon
+        - any:
+            - field: anticoagulant
+              eq: true
+            - field: antiplatelet
+              eq: true
+    why: 용종절제·조직검사 시 출혈 위험이 있다. 약물 중단 여부는 시술 위험도와 혈전 위험을 함께 따져 결정한다.
+    actions:
+      - 약 이름과 마지막 복용 시각 확인
+      - 시술 의사에게 보고(임의로 중단 지시하지 않음)
+    evidence: [BSG_ESGE]
+
+  - id: G5
+    module: 진정 내시경
+    level: yellow
+    basis: adapted
+    title: 진정 검사 + 인지장애·의사소통 곤란
+    stations: [내시경실, 접수·문진]
+    when:
+      all:
+        - field: sedation
+          eq: true
+        - field: cognitive_issue
+          eq: true
+    why: 금식·장정결 지시 이행 확인과 진정 후 귀가 안전을 위해 보호자가 필요하다.
+    actions:
+      - 보호자 동반 확인, 동의서·금식 이행 여부 보호자와 확인
+    evidence: [ASA_SEDATION]
+
+  # ───────────────────────── H. 운동부하·폐기능 ─────────────────────────
+  - id: H1
+    module: 운동부하
+    level: red
+    basis: guideline
+    title: 운동부하검사 + 심혈관질환 또는 운동 시 흉통·실신
+    stations: [기능검사실]
+    when:
+      all:
+        - exam: exercise_test
+        - any:
+            - field: cardiac_disease
+              eq: true
+            - field: exertional_symptoms
+              eq: true
+    why: 운동 중 심혈관 사건 위험이 있어 검사 전 의료진 평가가 필요하다.
+    actions:
+      - 검사 전 담당 의사 평가, 최근 증상 변화 확인
+      - 응급 장비(제세동기) 준비 확인
+    evidence: [AHA_EX]
+
+  - id: H2
+    module: 운동부하
+    level: red
+    basis: guideline
+    title: 운동부하검사 전 혈압 >200/110 mmHg
+    stations: [기능검사실, 신체계측]
+    when:
+      all:
+        - exam: exercise_test
+        - any:
+            - field: sbp
+              gt: 200
+            - field: dbp
+              gt: 110
+    why: AHA 운동부하검사 지침에서 안정 시 혈압 >200/110은 상대적 금기다.
+    actions:
+      - 검사 보류, 의료진 판단
+    evidence: [AHA_EX]
+
+  - id: H3
+    module: 호흡
+    level: yellow
+    basis: adapted
+    title: 중증 호흡기질환 또는 SpO₂ < 92% + 운동부하/폐기능 검사
+    stations: [기능검사실]
+    when:
+      all:
+        - exam: [exercise_test, pft]
+        - any:
+            - field: severe_lung_disease
+              eq: true
+            - field: spo2
+              lt: 92
+    why: 검사 중 호흡곤란·저산소증이 악화될 수 있다.
+    actions:
+      - 검사 중 산소포화도 감시, 증상 시 즉시 중단
+    evidence: [AHA_EX]
+
+  # ───────────────────────── I. 공통 ─────────────────────────
+  - id: I1
+    module: 공통
+    level: red
+    basis: team
+    title: 산소포화도 < 90%
+    stations: [신체계측, 접수·문진, 내시경실, 기능검사실]
+    when:
+      all:
+        - field: spo2
+          lt: 90
+    why: 저산소증 상태로 검진을 계속하면 위험할 수 있다.
+    actions:
+      - 재측정 후 즉시 의료진 보고
+    evidence: [TEAM]
+
+  - id: I2
+    module: 공통
+    level: yellow
+    basis: team
+    title: 발열·급성 감염 증상 (체온 ≥37.8°C 또는 증상)
+    stations: [접수·문진, 신체계측]
+    when:
+      any:
+        - field: fever_today
+          eq: true
+        - field: temp_c
+          ge: 37.8
+    why: 급성 질환 중에는 검사 결과가 왜곡되고 상태가 악화될 수 있어, 선택적 검진은 회복 후 시행을 고려한다.
+    actions:
+      - 의료진에게 검진 진행 여부 확인
+      - 감염 관리 수칙(마스크 등) 적용
+    evidence: [TEAM]
+
+  - id: I3
+    module: 공통
+    level: yellow
+    basis: adapted
+    title: 인지장애·의사소통 곤란
+    stations: [접수·문진, 채혈실, 영상의학, 기능검사실]
+    suppressed_by: [G5]
+    when:
+      all:
+        - field: cognitive_issue
+          eq: true
+    why: 금식·검사 지시를 이해하기 어려울 수 있다.
+    actions:
+      - 보호자 동반 확인, 지시를 짧고 반복해서 설명
+    evidence: [TEAM]
+
+references:
+  WHO_PHLEB:
+    text: "WHO guidelines on drawing blood: best practices in phlebotomy. World Health Organization, 2010."
+    url: https://www.who.int/publications/i/item/9789241599221
+  ESC_SYNCOPE:
+    text: "Brignole M, et al. 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J 2018;39:1883-1948."
+  DONOR_VVR:
+    text: "Thijsen A, Masser B. Vasovagal reactions in blood donors: risks, prevention and management. Transfus Med 2019;29(Suppl 1):13-22."
+  WHO_BMI:
+    text: "WHO. Body mass index (BMI) classification: underweight < 18.5 kg/m²."
+  KSSO:
+    text: "대한비만학회. 비만 진료지침 2022 (한국인 BMI 기준: 25 이상 비만, 30 이상 2단계, 35 이상 3단계)."
+  CDC_HYPO:
+    text: "CDC. Low Blood Sugar (Hypoglycemia)."
+    url: https://www.cdc.gov/diabetes/about/low-blood-sugar-hypoglycemia.html
+  ADA_HYPO:
+    text: "American Diabetes Association. Standards of Care in Diabetes — Glycemic Goals and Hypoglycemia (최신판)."
+  ACR_NKF:
+    text: "Davenport MS, et al. Use of Intravenous Iodinated Contrast Media in Patients with Kidney Disease: Consensus Statements from the ACR and NKF. Radiology 2020;294:660-668."
+    url: https://www.acr.org/-/media/ACR/Files/Clinical-Resources/ACK-NKF-Consensus-Iodinated-Contrast.pdf
+  ACR_MANUAL:
+    text: "ACR Manual on Contrast Media. American College of Radiology."
+  FDA_MRI:
+    text: "U.S. FDA. MRI (Magnetic Resonance Imaging) — Benefits and Risks."
+    url: https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/benefits-and-risks
+  ACR_PREG:
+    text: "ACR. Gadolinium Pregnancy Screening Statement."
+    url: https://www.acr.org/Advocacy/Position-Statements/Gadolinium-Pregnancy-Screening
+  WORLD_FALLS:
+    text: "Montero-Odasso M, et al. World guidelines for falls prevention and management for older adults. Age Ageing 2022;51:afac205."
+  CDC_STEADI:
+    text: "CDC. STEADI — Stopping Elderly Accidents, Deaths & Injuries."
+  ASA_SEDATION:
+    text: "Practice Guidelines for Moderate Procedural Sedation and Analgesia 2018. Anesthesiology 2018;128:437-479."
+  STOPBANG:
+    text: "Chung F, et al. STOP-Bang Questionnaire: A Practical Approach to Screen for Obstructive Sleep Apnea. Chest 2016;149:631-638."
+  HOWELL_HTN:
+    text: "Howell SJ, Sear JW, Foëx P. Hypertension, hypertensive heart disease and perioperative cardiac risk. Br J Anaesth 2004;92:570-583."
+  BSG_ESGE:
+    text: "Veitch AM, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: BSG/ESGE guideline update. Gut 2021;70:1611-1628."
+  AHA_EX:
+    text: "Fletcher GF, et al. Exercise Standards for Testing and Training: A Scientific Statement From the AHA. Circulation 2013;128:873-934."
+  TEAM:
+    text: "팀 설정 기준 — 명확한 지침 기준값 없음. 지도교수 검토 필요."

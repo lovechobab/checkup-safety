@@ -1,0 +1,1726 @@
+DATE,PATIENT,CODE,DESCRIPTION,VALUE,UNITS
+2016-11-07T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,718-7,Hemoglobin [Mass/volume] in Blood,15.9,g/dL
+2016-11-07T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,777-3,Platelets [#/volume] in Blood by Automated count,190.8,10*3/uL
+2016-11-12T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,718-7,Hemoglobin [Mass/volume] in Blood,14.9,g/dL
+2016-11-12T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,777-3,Platelets [#/volume] in Blood by Automated count,156.3,10*3/uL
+2016-11-16T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,718-7,Hemoglobin [Mass/volume] in Blood,16.2,g/dL
+2016-11-16T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,777-3,Platelets [#/volume] in Blood by Automated count,240.7,10*3/uL
+2016-12-18T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,718-7,Hemoglobin [Mass/volume] in Blood,14.7,g/dL
+2016-12-18T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,777-3,Platelets [#/volume] in Blood by Automated count,318.5,10*3/uL
+2017-02-06T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,718-7,Hemoglobin [Mass/volume] in Blood,16.6,g/dL
+2017-02-06T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,777-3,Platelets [#/volume] in Blood by Automated count,372.9,10*3/uL
+2017-03-18T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,718-7,Hemoglobin [Mass/volume] in Blood,12.4,g/dL
+2017-03-18T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,777-3,Platelets [#/volume] in Blood by Automated count,184.7,10*3/uL
+2017-04-05T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,718-7,Hemoglobin [Mass/volume] in Blood,13.9,g/dL
+2017-04-05T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,777-3,Platelets [#/volume] in Blood by Automated count,372.7,10*3/uL
+2017-04-22T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,718-7,Hemoglobin [Mass/volume] in Blood,17.0,g/dL
+2017-04-22T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,777-3,Platelets [#/volume] in Blood by Automated count,255.8,10*3/uL
+2017-05-01T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,718-7,Hemoglobin [Mass/volume] in Blood,14.8,g/dL
+2017-05-01T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,777-3,Platelets [#/volume] in Blood by Automated count,359.0,10*3/uL
+2017-05-22T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,718-7,Hemoglobin [Mass/volume] in Blood,13.1,g/dL
+2017-05-22T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,777-3,Platelets [#/volume] in Blood by Automated count,151.6,10*3/uL
+2017-05-28T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,718-7,Hemoglobin [Mass/volume] in Blood,17.0,g/dL
+2017-05-28T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,777-3,Platelets [#/volume] in Blood by Automated count,356.1,10*3/uL
+2017-09-04T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,718-7,Hemoglobin [Mass/volume] in Blood,12.1,g/dL
+2017-09-04T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,777-3,Platelets [#/volume] in Blood by Automated count,443.6,10*3/uL
+2017-09-19T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,718-7,Hemoglobin [Mass/volume] in Blood,11.4,g/dL
+2017-09-19T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,777-3,Platelets [#/volume] in Blood by Automated count,349.8,10*3/uL
+2017-09-22T21:21:14Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,5.5,mL/min
+2017-09-22T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,718-7,Hemoglobin [Mass/volume] in Blood,11.8,g/dL
+2017-09-22T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,777-3,Platelets [#/volume] in Blood by Automated count,255.4,10*3/uL
+2017-09-24T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,718-7,Hemoglobin [Mass/volume] in Blood,16.3,g/dL
+2017-09-24T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,777-3,Platelets [#/volume] in Blood by Automated count,254.8,10*3/uL
+2017-10-14T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,718-7,Hemoglobin [Mass/volume] in Blood,14.4,g/dL
+2017-10-14T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,777-3,Platelets [#/volume] in Blood by Automated count,235.3,10*3/uL
+2017-11-30T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,718-7,Hemoglobin [Mass/volume] in Blood,13.3,g/dL
+2017-11-30T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,777-3,Platelets [#/volume] in Blood by Automated count,317.0,10*3/uL
+2018-01-19T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,718-7,Hemoglobin [Mass/volume] in Blood,14.2,g/dL
+2018-01-19T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,777-3,Platelets [#/volume] in Blood by Automated count,303.7,10*3/uL
+2018-01-25T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,718-7,Hemoglobin [Mass/volume] in Blood,15.1,g/dL
+2018-01-25T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,777-3,Platelets [#/volume] in Blood by Automated count,354.2,10*3/uL
+2018-02-09T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,718-7,Hemoglobin [Mass/volume] in Blood,14.4,g/dL
+2018-02-09T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,777-3,Platelets [#/volume] in Blood by Automated count,161.6,10*3/uL
+2018-02-10T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,718-7,Hemoglobin [Mass/volume] in Blood,17.4,g/dL
+2018-02-10T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,777-3,Platelets [#/volume] in Blood by Automated count,404.9,10*3/uL
+2018-04-07T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,718-7,Hemoglobin [Mass/volume] in Blood,12.7,g/dL
+2018-04-07T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,777-3,Platelets [#/volume] in Blood by Automated count,201.7,10*3/uL
+2018-04-20T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,718-7,Hemoglobin [Mass/volume] in Blood,15.0,g/dL
+2018-04-20T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,777-3,Platelets [#/volume] in Blood by Automated count,261.2,10*3/uL
+2018-05-02T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,8302-2,Body Height,172.9,cm
+2018-05-02T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,29463-7,Body Weight,77.7,kg
+2018-05-02T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,39156-5,Body mass index (BMI) [Ratio],26.0,kg/m2
+2018-05-02T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2018-05-02T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,8480-6,Systolic Blood Pressure,137.0,mm[Hg]
+2018-05-23T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,718-7,Hemoglobin [Mass/volume] in Blood,13.8,g/dL
+2018-05-23T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,777-3,Platelets [#/volume] in Blood by Automated count,169.7,10*3/uL
+2018-06-14T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,718-7,Hemoglobin [Mass/volume] in Blood,15.0,g/dL
+2018-06-14T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,777-3,Platelets [#/volume] in Blood by Automated count,252.4,10*3/uL
+2018-06-30T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,718-7,Hemoglobin [Mass/volume] in Blood,17.4,g/dL
+2018-06-30T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,777-3,Platelets [#/volume] in Blood by Automated count,230.3,10*3/uL
+2018-06-30T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,718-7,Hemoglobin [Mass/volume] in Blood,13.8,g/dL
+2018-06-30T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,777-3,Platelets [#/volume] in Blood by Automated count,278.9,10*3/uL
+2018-08-09T23:51:57Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,718-7,Hemoglobin [Mass/volume] in Blood,15.1,g/dL
+2018-08-09T23:51:57Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,777-3,Platelets [#/volume] in Blood by Automated count,232.5,10*3/uL
+2018-08-10T12:36:55Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,718-7,Hemoglobin [Mass/volume] in Blood,13.4,g/dL
+2018-08-10T12:36:55Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,777-3,Platelets [#/volume] in Blood by Automated count,186.1,10*3/uL
+2018-09-03T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,718-7,Hemoglobin [Mass/volume] in Blood,15.2,g/dL
+2018-09-03T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,777-3,Platelets [#/volume] in Blood by Automated count,288.3,10*3/uL
+2018-10-24T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,718-7,Hemoglobin [Mass/volume] in Blood,12.2,g/dL
+2018-10-24T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,777-3,Platelets [#/volume] in Blood by Automated count,248.9,10*3/uL
+2018-12-16T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,718-7,Hemoglobin [Mass/volume] in Blood,12.2,g/dL
+2018-12-16T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,777-3,Platelets [#/volume] in Blood by Automated count,220.9,10*3/uL
+2018-12-18T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,718-7,Hemoglobin [Mass/volume] in Blood,14.3,g/dL
+2018-12-18T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,777-3,Platelets [#/volume] in Blood by Automated count,162.7,10*3/uL
+2018-12-28T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,718-7,Hemoglobin [Mass/volume] in Blood,14.5,g/dL
+2018-12-28T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,777-3,Platelets [#/volume] in Blood by Automated count,168.2,10*3/uL
+2019-03-18T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,718-7,Hemoglobin [Mass/volume] in Blood,17.2,g/dL
+2019-03-18T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,777-3,Platelets [#/volume] in Blood by Automated count,427.4,10*3/uL
+2019-03-18T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,718-7,Hemoglobin [Mass/volume] in Blood,12.3,g/dL
+2019-03-18T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,777-3,Platelets [#/volume] in Blood by Automated count,239.8,10*3/uL
+2019-04-01T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,718-7,Hemoglobin [Mass/volume] in Blood,13.0,g/dL
+2019-04-01T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,777-3,Platelets [#/volume] in Blood by Automated count,285.2,10*3/uL
+2019-04-24T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,718-7,Hemoglobin [Mass/volume] in Blood,11.7,g/dL
+2019-04-24T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,777-3,Platelets [#/volume] in Blood by Automated count,165.7,10*3/uL
+2019-05-10T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,718-7,Hemoglobin [Mass/volume] in Blood,15.7,g/dL
+2019-05-10T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,777-3,Platelets [#/volume] in Blood by Automated count,244.9,10*3/uL
+2019-05-14T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,718-7,Hemoglobin [Mass/volume] in Blood,14.4,g/dL
+2019-05-14T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,777-3,Platelets [#/volume] in Blood by Automated count,221.7,10*3/uL
+2019-05-17T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,718-7,Hemoglobin [Mass/volume] in Blood,14.1,g/dL
+2019-05-17T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,777-3,Platelets [#/volume] in Blood by Automated count,320.1,10*3/uL
+2019-05-17T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,718-7,Hemoglobin [Mass/volume] in Blood,16.8,g/dL
+2019-05-17T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,777-3,Platelets [#/volume] in Blood by Automated count,244.0,10*3/uL
+2019-06-28T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,718-7,Hemoglobin [Mass/volume] in Blood,17.2,g/dL
+2019-06-28T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,777-3,Platelets [#/volume] in Blood by Automated count,414.9,10*3/uL
+2019-07-07T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,718-7,Hemoglobin [Mass/volume] in Blood,15.1,g/dL
+2019-07-07T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,777-3,Platelets [#/volume] in Blood by Automated count,355.9,10*3/uL
+2019-07-10T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,8302-2,Body Height,189.1,cm
+2019-07-10T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,29463-7,Body Weight,80.3,kg
+2019-07-10T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,39156-5,Body mass index (BMI) [Ratio],22.5,kg/m2
+2019-07-10T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,8462-4,Diastolic Blood Pressure,65.0,mm[Hg]
+2019-07-10T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,8480-6,Systolic Blood Pressure,118.0,mm[Hg]
+2019-08-03T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,718-7,Hemoglobin [Mass/volume] in Blood,14.2,g/dL
+2019-08-03T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,777-3,Platelets [#/volume] in Blood by Automated count,379.0,10*3/uL
+2019-09-02T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,718-7,Hemoglobin [Mass/volume] in Blood,16.7,g/dL
+2019-09-02T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,777-3,Platelets [#/volume] in Blood by Automated count,193.1,10*3/uL
+2019-09-20T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,718-7,Hemoglobin [Mass/volume] in Blood,17.0,g/dL
+2019-09-20T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,777-3,Platelets [#/volume] in Blood by Automated count,234.7,10*3/uL
+2019-10-26T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,8302-2,Body Height,154.0,cm
+2019-10-26T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,29463-7,Body Weight,60.1,kg
+2019-10-26T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,39156-5,Body mass index (BMI) [Ratio],25.3,kg/m2
+2019-10-26T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,8462-4,Diastolic Blood Pressure,87.0,mm[Hg]
+2019-10-26T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,8480-6,Systolic Blood Pressure,99.0,mm[Hg]
+2019-11-21T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,718-7,Hemoglobin [Mass/volume] in Blood,17.1,g/dL
+2019-11-21T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,777-3,Platelets [#/volume] in Blood by Automated count,359.5,10*3/uL
+2019-12-30T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,718-7,Hemoglobin [Mass/volume] in Blood,15.3,g/dL
+2019-12-30T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,777-3,Platelets [#/volume] in Blood by Automated count,377.9,10*3/uL
+2020-01-18T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,718-7,Hemoglobin [Mass/volume] in Blood,13.2,g/dL
+2020-01-18T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,777-3,Platelets [#/volume] in Blood by Automated count,408.8,10*3/uL
+2020-01-20T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,8302-2,Body Height,187.9,cm
+2020-01-20T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,29463-7,Body Weight,106.5,kg
+2020-01-20T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2020-01-20T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,8462-4,Diastolic Blood Pressure,69.0,mm[Hg]
+2020-01-20T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,8480-6,Systolic Blood Pressure,118.0,mm[Hg]
+2020-01-20T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,718-7,Hemoglobin [Mass/volume] in Blood,14.2,g/dL
+2020-01-20T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,777-3,Platelets [#/volume] in Blood by Automated count,339.1,10*3/uL
+2020-01-28T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,718-7,Hemoglobin [Mass/volume] in Blood,14.0,g/dL
+2020-01-28T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,777-3,Platelets [#/volume] in Blood by Automated count,227.1,10*3/uL
+2020-02-04T15:27:46Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,718-7,Hemoglobin [Mass/volume] in Blood,12.8,g/dL
+2020-02-04T15:27:46Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,777-3,Platelets [#/volume] in Blood by Automated count,103.5,10*3/uL
+2020-02-05T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,718-7,Hemoglobin [Mass/volume] in Blood,17.1,g/dL
+2020-02-05T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,777-3,Platelets [#/volume] in Blood by Automated count,320.8,10*3/uL
+2020-02-28T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,718-7,Hemoglobin [Mass/volume] in Blood,12.5,g/dL
+2020-02-28T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,777-3,Platelets [#/volume] in Blood by Automated count,279.1,10*3/uL
+2020-03-18T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,718-7,Hemoglobin [Mass/volume] in Blood,17.2,g/dL
+2020-03-18T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,777-3,Platelets [#/volume] in Blood by Automated count,220.0,10*3/uL
+2020-03-18T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,718-7,Hemoglobin [Mass/volume] in Blood,14.8,g/dL
+2020-03-18T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,777-3,Platelets [#/volume] in Blood by Automated count,299.2,10*3/uL
+2020-03-19T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,718-7,Hemoglobin [Mass/volume] in Blood,16.1,g/dL
+2020-03-19T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,777-3,Platelets [#/volume] in Blood by Automated count,391.1,10*3/uL
+2020-03-21T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,718-7,Hemoglobin [Mass/volume] in Blood,15.7,g/dL
+2020-03-21T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,777-3,Platelets [#/volume] in Blood by Automated count,435.5,10*3/uL
+2020-03-23T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,718-7,Hemoglobin [Mass/volume] in Blood,13.1,g/dL
+2020-03-23T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,777-3,Platelets [#/volume] in Blood by Automated count,290.0,10*3/uL
+2020-03-30T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,718-7,Hemoglobin [Mass/volume] in Blood,11.3,g/dL
+2020-03-30T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,777-3,Platelets [#/volume] in Blood by Automated count,409.6,10*3/uL
+2020-04-25T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,8302-2,Body Height,164.0,cm
+2020-04-25T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,29463-7,Body Weight,74.6,kg
+2020-04-25T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,39156-5,Body mass index (BMI) [Ratio],27.8,kg/m2
+2020-04-25T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,8462-4,Diastolic Blood Pressure,59.0,mm[Hg]
+2020-04-25T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,8480-6,Systolic Blood Pressure,98.0,mm[Hg]
+2020-05-05T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,718-7,Hemoglobin [Mass/volume] in Blood,12.3,g/dL
+2020-05-05T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,777-3,Platelets [#/volume] in Blood by Automated count,296.3,10*3/uL
+2020-07-19T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,718-7,Hemoglobin [Mass/volume] in Blood,12.9,g/dL
+2020-07-19T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,777-3,Platelets [#/volume] in Blood by Automated count,287.9,10*3/uL
+2020-07-26T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,718-7,Hemoglobin [Mass/volume] in Blood,12.7,g/dL
+2020-07-26T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,777-3,Platelets [#/volume] in Blood by Automated count,405.3,10*3/uL
+2020-09-01T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,718-7,Hemoglobin [Mass/volume] in Blood,16.8,g/dL
+2020-09-01T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,777-3,Platelets [#/volume] in Blood by Automated count,378.9,10*3/uL
+2020-09-07T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,718-7,Hemoglobin [Mass/volume] in Blood,17.0,g/dL
+2020-09-07T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,777-3,Platelets [#/volume] in Blood by Automated count,343.0,10*3/uL
+2020-10-31T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,8302-2,Body Height,154.1,cm
+2020-10-31T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,29463-7,Body Weight,56.3,kg
+2020-10-31T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,39156-5,Body mass index (BMI) [Ratio],23.7,kg/m2
+2020-10-31T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,8462-4,Diastolic Blood Pressure,88.0,mm[Hg]
+2020-10-31T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,8480-6,Systolic Blood Pressure,95.0,mm[Hg]
+2020-12-01T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,8302-2,Body Height,187.3,cm
+2020-12-01T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,29463-7,Body Weight,101.7,kg
+2020-12-01T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,39156-5,Body mass index (BMI) [Ratio],29.0,kg/m2
+2020-12-01T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2020-12-01T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,8480-6,Systolic Blood Pressure,142.0,mm[Hg]
+2020-12-01T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,718-7,Hemoglobin [Mass/volume] in Blood,13.3,g/dL
+2020-12-01T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,777-3,Platelets [#/volume] in Blood by Automated count,400.7,10*3/uL
+2020-12-01T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,718-7,Hemoglobin [Mass/volume] in Blood,14.9,g/dL
+2020-12-01T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,777-3,Platelets [#/volume] in Blood by Automated count,430.5,10*3/uL
+2020-12-09T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,8302-2,Body Height,154.2,cm
+2020-12-09T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,29463-7,Body Weight,45.1,kg
+2020-12-09T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,39156-5,Body mass index (BMI) [Ratio],19.0,kg/m2
+2020-12-09T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2020-12-09T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,8480-6,Systolic Blood Pressure,126.0,mm[Hg]
+2020-12-16T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,718-7,Hemoglobin [Mass/volume] in Blood,12.1,g/dL
+2020-12-16T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,777-3,Platelets [#/volume] in Blood by Automated count,420.2,10*3/uL
+2021-01-05T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,8302-2,Body Height,160.8,cm
+2021-01-05T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,29463-7,Body Weight,77.7,kg
+2021-01-05T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2021-01-05T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2021-01-05T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,8480-6,Systolic Blood Pressure,106.0,mm[Hg]
+2021-01-05T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,718-7,Hemoglobin [Mass/volume] in Blood,12.7,g/dL
+2021-01-05T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,777-3,Platelets [#/volume] in Blood by Automated count,384.4,10*3/uL
+2021-02-06T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,718-7,Hemoglobin [Mass/volume] in Blood,12.6,g/dL
+2021-02-06T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,777-3,Platelets [#/volume] in Blood by Automated count,262.5,10*3/uL
+2021-02-09T05:37:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,8.4,mL/min
+2021-02-16T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,7.0,mL/min
+2021-02-17T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,718-7,Hemoglobin [Mass/volume] in Blood,12.1,g/dL
+2021-02-17T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,777-3,Platelets [#/volume] in Blood by Automated count,396.9,10*3/uL
+2021-02-24T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,718-7,Hemoglobin [Mass/volume] in Blood,8.5,g/dL
+2021-02-24T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,777-3,Platelets [#/volume] in Blood by Automated count,376.9,10*3/uL
+2021-02-26T00:18:08Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,718-7,Hemoglobin [Mass/volume] in Blood,11.1,g/dL
+2021-03-16T06:02:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,21.9,mL/min
+2021-04-12T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,8302-2,Body Height,175.9,cm
+2021-04-12T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,29463-7,Body Weight,68.9,kg
+2021-04-12T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,39156-5,Body mass index (BMI) [Ratio],22.3,kg/m2
+2021-04-12T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,8462-4,Diastolic Blood Pressure,94.0,mm[Hg]
+2021-04-12T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,8480-6,Systolic Blood Pressure,141.0,mm[Hg]
+2021-04-12T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,718-7,Hemoglobin [Mass/volume] in Blood,14.9,g/dL
+2021-04-12T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,777-3,Platelets [#/volume] in Blood by Automated count,408.1,10*3/uL
+2021-04-12T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,8302-2,Body Height,169.3,cm
+2021-04-12T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,29463-7,Body Weight,88.5,kg
+2021-04-12T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,39156-5,Body mass index (BMI) [Ratio],30.9,kg/m2
+2021-04-12T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2021-04-12T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,8480-6,Systolic Blood Pressure,117.0,mm[Hg]
+2021-04-13T07:55:59Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,718-7,Hemoglobin [Mass/volume] in Blood,16.8,g/dL
+2021-04-13T07:55:59Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,777-3,Platelets [#/volume] in Blood by Automated count,422.7,10*3/uL
+2021-04-15T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,718-7,Hemoglobin [Mass/volume] in Blood,14.8,g/dL
+2021-04-15T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,777-3,Platelets [#/volume] in Blood by Automated count,250.8,10*3/uL
+2021-04-19T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,718-7,Hemoglobin [Mass/volume] in Blood,10.9,g/dL
+2021-04-19T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,777-3,Platelets [#/volume] in Blood by Automated count,189.6,10*3/uL
+2021-04-20T09:30:49Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,718-7,Hemoglobin [Mass/volume] in Blood,15.2,g/dL
+2021-04-20T09:30:49Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,777-3,Platelets [#/volume] in Blood by Automated count,421.2,10*3/uL
+2021-04-25T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,718-7,Hemoglobin [Mass/volume] in Blood,14.8,g/dL
+2021-04-25T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,777-3,Platelets [#/volume] in Blood by Automated count,428.7,10*3/uL
+2021-05-05T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,8302-2,Body Height,172.9,cm
+2021-05-05T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,29463-7,Body Weight,83.0,kg
+2021-05-05T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,39156-5,Body mass index (BMI) [Ratio],27.8,kg/m2
+2021-05-05T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,8462-4,Diastolic Blood Pressure,86.0,mm[Hg]
+2021-05-05T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,8480-6,Systolic Blood Pressure,141.0,mm[Hg]
+2021-05-05T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,718-7,Hemoglobin [Mass/volume] in Blood,13.9,g/dL
+2021-05-05T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,777-3,Platelets [#/volume] in Blood by Automated count,271.1,10*3/uL
+2021-06-17T06:15:03Z,96a88082-137f-80a2-5283-862ed9b56be9,718-7,Hemoglobin [Mass/volume] in Blood,12.8,g/dL
+2021-06-17T06:15:03Z,96a88082-137f-80a2-5283-862ed9b56be9,777-3,Platelets [#/volume] in Blood by Automated count,146.0,10*3/uL
+2021-08-02T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,8302-2,Body Height,164.8,cm
+2021-08-02T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,29463-7,Body Weight,83.1,kg
+2021-08-02T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,39156-5,Body mass index (BMI) [Ratio],30.6,kg/m2
+2021-08-02T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2021-08-02T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,8480-6,Systolic Blood Pressure,94.0,mm[Hg]
+2021-08-02T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,718-7,Hemoglobin [Mass/volume] in Blood,13.9,g/dL
+2021-08-02T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,777-3,Platelets [#/volume] in Blood by Automated count,159.5,10*3/uL
+2021-09-02T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,718-7,Hemoglobin [Mass/volume] in Blood,12.9,g/dL
+2021-09-02T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,777-3,Platelets [#/volume] in Blood by Automated count,391.4,10*3/uL
+2021-09-13T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,8302-2,Body Height,175.0,cm
+2021-09-13T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,29463-7,Body Weight,81.0,kg
+2021-09-13T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,39156-5,Body mass index (BMI) [Ratio],26.5,kg/m2
+2021-09-13T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,8462-4,Diastolic Blood Pressure,63.0,mm[Hg]
+2021-09-13T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,8480-6,Systolic Blood Pressure,86.0,mm[Hg]
+2021-09-16T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,718-7,Hemoglobin [Mass/volume] in Blood,13.2,g/dL
+2021-09-16T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,777-3,Platelets [#/volume] in Blood by Automated count,277.3,10*3/uL
+2021-09-20T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,8302-2,Body Height,154.1,cm
+2021-09-20T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,29463-7,Body Weight,50.6,kg
+2021-09-20T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,39156-5,Body mass index (BMI) [Ratio],21.3,kg/m2
+2021-09-20T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,8462-4,Diastolic Blood Pressure,72.0,mm[Hg]
+2021-09-20T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,8480-6,Systolic Blood Pressure,128.0,mm[Hg]
+2021-10-23T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,718-7,Hemoglobin [Mass/volume] in Blood,16.3,g/dL
+2021-10-23T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,777-3,Platelets [#/volume] in Blood by Automated count,393.1,10*3/uL
+2021-12-07T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,718-7,Hemoglobin [Mass/volume] in Blood,16.8,g/dL
+2021-12-07T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,777-3,Platelets [#/volume] in Blood by Automated count,294.2,10*3/uL
+2021-12-22T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,8302-2,Body Height,161.6,cm
+2021-12-22T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,29463-7,Body Weight,51.9,kg
+2021-12-22T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,39156-5,Body mass index (BMI) [Ratio],19.9,kg/m2
+2021-12-22T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,8462-4,Diastolic Blood Pressure,79.0,mm[Hg]
+2021-12-22T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,8480-6,Systolic Blood Pressure,91.0,mm[Hg]
+2022-01-14T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,8302-2,Body Height,169.2,cm
+2022-01-14T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,29463-7,Body Weight,64.6,kg
+2022-01-14T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,39156-5,Body mass index (BMI) [Ratio],22.6,kg/m2
+2022-01-14T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,8462-4,Diastolic Blood Pressure,79.0,mm[Hg]
+2022-01-14T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,8480-6,Systolic Blood Pressure,138.0,mm[Hg]
+2022-01-16T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,718-7,Hemoglobin [Mass/volume] in Blood,13.7,g/dL
+2022-01-16T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,777-3,Platelets [#/volume] in Blood by Automated count,151.8,10*3/uL
+2022-03-07T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,718-7,Hemoglobin [Mass/volume] in Blood,16.5,g/dL
+2022-03-07T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,777-3,Platelets [#/volume] in Blood by Automated count,168.7,10*3/uL
+2022-03-25T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,8302-2,Body Height,190.2,cm
+2022-03-25T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,29463-7,Body Weight,107.1,kg
+2022-03-25T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,39156-5,Body mass index (BMI) [Ratio],29.6,kg/m2
+2022-03-25T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2022-03-25T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,8480-6,Systolic Blood Pressure,116.0,mm[Hg]
+2022-03-25T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,718-7,Hemoglobin [Mass/volume] in Blood,16.1,g/dL
+2022-03-25T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,777-3,Platelets [#/volume] in Blood by Automated count,254.8,10*3/uL
+2022-04-11T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,718-7,Hemoglobin [Mass/volume] in Blood,11.1,g/dL
+2022-04-11T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,777-3,Platelets [#/volume] in Blood by Automated count,434.6,10*3/uL
+2022-04-16T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,718-7,Hemoglobin [Mass/volume] in Blood,15.5,g/dL
+2022-04-16T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,777-3,Platelets [#/volume] in Blood by Automated count,441.8,10*3/uL
+2022-04-18T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,8302-2,Body Height,169.4,cm
+2022-04-18T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,29463-7,Body Weight,104.2,kg
+2022-04-18T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,39156-5,Body mass index (BMI) [Ratio],36.3,kg/m2
+2022-04-18T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2022-04-18T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,8480-6,Systolic Blood Pressure,120.0,mm[Hg]
+2022-05-04T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,718-7,Hemoglobin [Mass/volume] in Blood,16.8,g/dL
+2022-05-04T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,777-3,Platelets [#/volume] in Blood by Automated count,151.8,10*3/uL
+2022-06-20T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,718-7,Hemoglobin [Mass/volume] in Blood,17.5,g/dL
+2022-06-20T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,777-3,Platelets [#/volume] in Blood by Automated count,172.1,10*3/uL
+2022-06-26T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,718-7,Hemoglobin [Mass/volume] in Blood,12.1,g/dL
+2022-06-26T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,777-3,Platelets [#/volume] in Blood by Automated count,367.3,10*3/uL
+2022-07-13T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,8302-2,Body Height,189.3,cm
+2022-07-13T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,29463-7,Body Weight,86.2,kg
+2022-07-13T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,39156-5,Body mass index (BMI) [Ratio],24.1,kg/m2
+2022-07-13T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,8462-4,Diastolic Blood Pressure,72.0,mm[Hg]
+2022-07-13T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,8480-6,Systolic Blood Pressure,139.0,mm[Hg]
+2022-07-13T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,718-7,Hemoglobin [Mass/volume] in Blood,14.9,g/dL
+2022-07-13T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,777-3,Platelets [#/volume] in Blood by Automated count,199.7,10*3/uL
+2022-07-15T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,8302-2,Body Height,178.1,cm
+2022-07-15T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,29463-7,Body Weight,88.6,kg
+2022-07-15T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,39156-5,Body mass index (BMI) [Ratio],27.9,kg/m2
+2022-07-15T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,8462-4,Diastolic Blood Pressure,74.0,mm[Hg]
+2022-07-15T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,8480-6,Systolic Blood Pressure,145.0,mm[Hg]
+2022-07-15T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,718-7,Hemoglobin [Mass/volume] in Blood,12.3,g/dL
+2022-07-15T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,777-3,Platelets [#/volume] in Blood by Automated count,331.1,10*3/uL
+2022-07-22T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,718-7,Hemoglobin [Mass/volume] in Blood,11.4,g/dL
+2022-07-22T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,777-3,Platelets [#/volume] in Blood by Automated count,323.1,10*3/uL
+2022-07-29T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,718-7,Hemoglobin [Mass/volume] in Blood,13.8,g/dL
+2022-07-29T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,777-3,Platelets [#/volume] in Blood by Automated count,373.4,10*3/uL
+2022-08-04T14:54:16Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,718-7,Hemoglobin [Mass/volume] in Blood,15.9,g/dL
+2022-08-04T14:54:16Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,777-3,Platelets [#/volume] in Blood by Automated count,447.5,10*3/uL
+2022-08-04T15:04:16Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,11.7,mL/min
+2022-08-20T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,718-7,Hemoglobin [Mass/volume] in Blood,13.4,g/dL
+2022-08-20T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,777-3,Platelets [#/volume] in Blood by Automated count,290.5,10*3/uL
+2022-09-03T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,8302-2,Body Height,182.6,cm
+2022-09-03T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,29463-7,Body Weight,97.5,kg
+2022-09-03T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,39156-5,Body mass index (BMI) [Ratio],29.2,kg/m2
+2022-09-03T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,8462-4,Diastolic Blood Pressure,75.0,mm[Hg]
+2022-09-03T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,8480-6,Systolic Blood Pressure,117.0,mm[Hg]
+2022-09-03T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,718-7,Hemoglobin [Mass/volume] in Blood,16.5,g/dL
+2022-09-03T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,777-3,Platelets [#/volume] in Blood by Automated count,355.4,10*3/uL
+2022-09-09T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,8302-2,Body Height,169.4,cm
+2022-09-09T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,29463-7,Body Weight,65.1,kg
+2022-09-09T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,39156-5,Body mass index (BMI) [Ratio],22.7,kg/m2
+2022-09-09T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2022-09-09T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,8480-6,Systolic Blood Pressure,138.0,mm[Hg]
+2022-09-19T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,8302-2,Body Height,160.3,cm
+2022-09-19T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,29463-7,Body Weight,55.7,kg
+2022-09-19T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2
+2022-09-19T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,8462-4,Diastolic Blood Pressure,86.0,mm[Hg]
+2022-09-19T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,8480-6,Systolic Blood Pressure,135.0,mm[Hg]
+2022-10-23T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,718-7,Hemoglobin [Mass/volume] in Blood,13.4,g/dL
+2022-10-23T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,777-3,Platelets [#/volume] in Blood by Automated count,309.5,10*3/uL
+2022-10-24T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,718-7,Hemoglobin [Mass/volume] in Blood,16.2,g/dL
+2022-10-24T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,777-3,Platelets [#/volume] in Blood by Automated count,186.4,10*3/uL
+2022-10-30T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,718-7,Hemoglobin [Mass/volume] in Blood,11.0,g/dL
+2022-10-30T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,777-3,Platelets [#/volume] in Blood by Automated count,360.1,10*3/uL
+2022-10-31T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,718-7,Hemoglobin [Mass/volume] in Blood,14.1,g/dL
+2022-10-31T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,777-3,Platelets [#/volume] in Blood by Automated count,354.9,10*3/uL
+2022-11-10T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,718-7,Hemoglobin [Mass/volume] in Blood,12.3,g/dL
+2022-11-10T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,777-3,Platelets [#/volume] in Blood by Automated count,177.5,10*3/uL
+2022-12-07T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,8302-2,Body Height,154.2,cm
+2022-12-07T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,29463-7,Body Weight,48.3,kg
+2022-12-07T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,39156-5,Body mass index (BMI) [Ratio],20.3,kg/m2
+2022-12-07T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2022-12-07T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,8480-6,Systolic Blood Pressure,120.0,mm[Hg]
+2022-12-07T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,718-7,Hemoglobin [Mass/volume] in Blood,13.4,g/dL
+2022-12-07T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,777-3,Platelets [#/volume] in Blood by Automated count,315.0,10*3/uL
+2022-12-28T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,8302-2,Body Height,161.8,cm
+2022-12-28T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,29463-7,Body Weight,53.5,kg
+2022-12-28T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,39156-5,Body mass index (BMI) [Ratio],20.5,kg/m2
+2022-12-28T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2022-12-28T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,8480-6,Systolic Blood Pressure,85.0,mm[Hg]
+2022-12-29T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,718-7,Hemoglobin [Mass/volume] in Blood,13.5,g/dL
+2022-12-29T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,777-3,Platelets [#/volume] in Blood by Automated count,353.7,10*3/uL
+2023-01-23T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,8302-2,Body Height,187.9,cm
+2023-01-23T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,29463-7,Body Weight,102.3,kg
+2023-01-23T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,39156-5,Body mass index (BMI) [Ratio],29.0,kg/m2
+2023-01-23T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,8462-4,Diastolic Blood Pressure,71.0,mm[Hg]
+2023-01-23T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,8480-6,Systolic Blood Pressure,106.0,mm[Hg]
+2023-02-18T03:14:58Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,718-7,Hemoglobin [Mass/volume] in Blood,17.2,g/dL
+2023-02-18T03:14:58Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,777-3,Platelets [#/volume] in Blood by Automated count,164.0,10*3/uL
+2023-02-18T16:00:30Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,718-7,Hemoglobin [Mass/volume] in Blood,11.1,g/dL
+2023-02-18T16:00:30Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,777-3,Platelets [#/volume] in Blood by Automated count,166.2,10*3/uL
+2023-02-22T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,8302-2,Body Height,170.9,cm
+2023-02-22T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,29463-7,Body Weight,80.4,kg
+2023-02-22T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,39156-5,Body mass index (BMI) [Ratio],27.5,kg/m2
+2023-02-22T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,8462-4,Diastolic Blood Pressure,73.0,mm[Hg]
+2023-02-22T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,8480-6,Systolic Blood Pressure,103.0,mm[Hg]
+2023-02-23T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,718-7,Hemoglobin [Mass/volume] in Blood,17.1,g/dL
+2023-02-23T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,777-3,Platelets [#/volume] in Blood by Automated count,307.6,10*3/uL
+2023-03-10T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,718-7,Hemoglobin [Mass/volume] in Blood,12.8,g/dL
+2023-03-10T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,777-3,Platelets [#/volume] in Blood by Automated count,343.2,10*3/uL
+2023-03-11T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,718-7,Hemoglobin [Mass/volume] in Blood,13.9,g/dL
+2023-03-11T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,777-3,Platelets [#/volume] in Blood by Automated count,305.0,10*3/uL
+2023-04-22T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,8302-2,Body Height,173.2,cm
+2023-04-22T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,29463-7,Body Weight,101.9,kg
+2023-04-22T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,39156-5,Body mass index (BMI) [Ratio],34.0,kg/m2
+2023-04-22T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,8462-4,Diastolic Blood Pressure,94.0,mm[Hg]
+2023-04-22T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,8480-6,Systolic Blood Pressure,132.0,mm[Hg]
+2023-04-29T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,8302-2,Body Height,164.0,cm
+2023-04-29T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,29463-7,Body Weight,78.5,kg
+2023-04-29T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,39156-5,Body mass index (BMI) [Ratio],29.2,kg/m2
+2023-04-29T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,8462-4,Diastolic Blood Pressure,69.0,mm[Hg]
+2023-04-29T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,8480-6,Systolic Blood Pressure,93.0,mm[Hg]
+2023-04-29T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,718-7,Hemoglobin [Mass/volume] in Blood,15.7,g/dL
+2023-04-29T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,777-3,Platelets [#/volume] in Blood by Automated count,258.7,10*3/uL
+2023-04-30T11:30:13Z,4760e5e7-fa82-b084-95cb-bb4564d42496,718-7,Hemoglobin [Mass/volume] in Blood,17.3,g/dL
+2023-04-30T11:30:13Z,4760e5e7-fa82-b084-95cb-bb4564d42496,777-3,Platelets [#/volume] in Blood by Automated count,355.6,10*3/uL
+2023-05-07T13:05:25Z,4760e5e7-fa82-b084-95cb-bb4564d42496,718-7,Hemoglobin [Mass/volume] in Blood,13.6,g/dL
+2023-05-07T13:05:25Z,4760e5e7-fa82-b084-95cb-bb4564d42496,777-3,Platelets [#/volume] in Blood by Automated count,150.7,10*3/uL
+2023-05-08T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,8302-2,Body Height,175.0,cm
+2023-05-08T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,29463-7,Body Weight,84.1,kg
+2023-05-08T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,39156-5,Body mass index (BMI) [Ratio],27.5,kg/m2
+2023-05-08T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,8462-4,Diastolic Blood Pressure,73.0,mm[Hg]
+2023-05-08T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,8480-6,Systolic Blood Pressure,100.0,mm[Hg]
+2023-05-08T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,718-7,Hemoglobin [Mass/volume] in Blood,12.4,g/dL
+2023-05-08T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,777-3,Platelets [#/volume] in Blood by Automated count,400.3,10*3/uL
+2023-05-19T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,718-7,Hemoglobin [Mass/volume] in Blood,12.8,g/dL
+2023-05-19T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,777-3,Platelets [#/volume] in Blood by Automated count,246.5,10*3/uL
+2023-06-21T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,718-7,Hemoglobin [Mass/volume] in Blood,14.6,g/dL
+2023-06-21T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,777-3,Platelets [#/volume] in Blood by Automated count,404.4,10*3/uL
+2023-06-26T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,8302-2,Body Height,175.6,cm
+2023-06-26T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,29463-7,Body Weight,57.0,kg
+2023-06-26T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,39156-5,Body mass index (BMI) [Ratio],18.5,kg/m2
+2023-06-26T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,8462-4,Diastolic Blood Pressure,66.0,mm[Hg]
+2023-06-26T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2023-06-27T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,718-7,Hemoglobin [Mass/volume] in Blood,16.4,g/dL
+2023-06-27T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,777-3,Platelets [#/volume] in Blood by Automated count,293.7,10*3/uL
+2023-07-13T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,718-7,Hemoglobin [Mass/volume] in Blood,15.5,g/dL
+2023-07-13T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,777-3,Platelets [#/volume] in Blood by Automated count,258.7,10*3/uL
+2023-07-29T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,718-7,Hemoglobin [Mass/volume] in Blood,12.3,g/dL
+2023-07-29T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,777-3,Platelets [#/volume] in Blood by Automated count,444.3,10*3/uL
+2023-08-07T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,8302-2,Body Height,164.8,cm
+2023-08-07T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,29463-7,Body Weight,83.1,kg
+2023-08-07T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,39156-5,Body mass index (BMI) [Ratio],30.6,kg/m2
+2023-08-07T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2023-08-07T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,8480-6,Systolic Blood Pressure,102.0,mm[Hg]
+2023-08-15T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,8302-2,Body Height,152.7,cm
+2023-08-15T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,29463-7,Body Weight,70.4,kg
+2023-08-15T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2023-08-15T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,8462-4,Diastolic Blood Pressure,91.0,mm[Hg]
+2023-08-15T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,8480-6,Systolic Blood Pressure,128.0,mm[Hg]
+2023-08-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,8302-2,Body Height,170.3,cm
+2023-08-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,29463-7,Body Weight,65.8,kg
+2023-08-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,39156-5,Body mass index (BMI) [Ratio],22.7,kg/m2
+2023-08-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,8462-4,Diastolic Blood Pressure,75.0,mm[Hg]
+2023-08-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,8480-6,Systolic Blood Pressure,105.0,mm[Hg]
+2023-08-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,718-7,Hemoglobin [Mass/volume] in Blood,13.8,g/dL
+2023-08-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,777-3,Platelets [#/volume] in Blood by Automated count,311.0,10*3/uL
+2023-08-19T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,718-7,Hemoglobin [Mass/volume] in Blood,12.9,g/dL
+2023-08-19T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,777-3,Platelets [#/volume] in Blood by Automated count,239.1,10*3/uL
+2023-08-26T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,8302-2,Body Height,152.9,cm
+2023-08-26T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,29463-7,Body Weight,42.7,kg
+2023-08-26T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,39156-5,Body mass index (BMI) [Ratio],18.3,kg/m2
+2023-08-26T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,8462-4,Diastolic Blood Pressure,71.0,mm[Hg]
+2023-08-26T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,8480-6,Systolic Blood Pressure,110.0,mm[Hg]
+2023-09-25T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,8302-2,Body Height,160.4,cm
+2023-09-25T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,29463-7,Body Weight,58.0,kg
+2023-09-25T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,39156-5,Body mass index (BMI) [Ratio],22.5,kg/m2
+2023-09-25T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2023-09-25T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,8480-6,Systolic Blood Pressure,127.0,mm[Hg]
+2023-10-05T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,89.3,mL/min
+2023-10-07T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,718-7,Hemoglobin [Mass/volume] in Blood,11.7,g/dL
+2023-10-07T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,777-3,Platelets [#/volume] in Blood by Automated count,334.3,10*3/uL
+2023-10-29T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,8302-2,Body Height,153.2,cm
+2023-10-29T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,29463-7,Body Weight,69.1,kg
+2023-10-29T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,39156-5,Body mass index (BMI) [Ratio],29.5,kg/m2
+2023-10-29T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,8462-4,Diastolic Blood Pressure,79.0,mm[Hg]
+2023-10-29T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,8480-6,Systolic Blood Pressure,122.0,mm[Hg]
+2023-10-30T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,8302-2,Body Height,178.8,cm
+2023-10-30T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,29463-7,Body Weight,103.5,kg
+2023-10-30T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,39156-5,Body mass index (BMI) [Ratio],32.4,kg/m2
+2023-10-30T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,8462-4,Diastolic Blood Pressure,76.0,mm[Hg]
+2023-10-30T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,8480-6,Systolic Blood Pressure,107.0,mm[Hg]
+2023-11-04T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,8302-2,Body Height,154.2,cm
+2023-11-04T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,29463-7,Body Weight,59.3,kg
+2023-11-04T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,39156-5,Body mass index (BMI) [Ratio],25.0,kg/m2
+2023-11-04T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2023-11-04T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,8480-6,Systolic Blood Pressure,99.0,mm[Hg]
+2023-11-04T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,718-7,Hemoglobin [Mass/volume] in Blood,14.2,g/dL
+2023-11-04T21:40:44Z,7b06ee52-df9a-8487-0be6-dff27cc7d519,777-3,Platelets [#/volume] in Blood by Automated count,367.8,10*3/uL
+2023-11-06T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,8302-2,Body Height,176.1,cm
+2023-11-06T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,29463-7,Body Weight,84.6,kg
+2023-11-06T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,39156-5,Body mass index (BMI) [Ratio],27.3,kg/m2
+2023-11-06T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2023-11-06T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,8480-6,Systolic Blood Pressure,125.0,mm[Hg]
+2023-11-21T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,8302-2,Body Height,187.3,cm
+2023-11-21T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,29463-7,Body Weight,103.2,kg
+2023-11-21T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,39156-5,Body mass index (BMI) [Ratio],29.4,kg/m2
+2023-11-21T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2023-11-21T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,8480-6,Systolic Blood Pressure,149.0,mm[Hg]
+2023-11-22T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,8302-2,Body Height,162.6,cm
+2023-11-22T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,29463-7,Body Weight,49.1,kg
+2023-11-22T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,39156-5,Body mass index (BMI) [Ratio],18.6,kg/m2
+2023-11-22T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2023-11-22T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,8480-6,Systolic Blood Pressure,96.0,mm[Hg]
+2023-11-22T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,718-7,Hemoglobin [Mass/volume] in Blood,17.2,g/dL
+2023-11-22T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,777-3,Platelets [#/volume] in Blood by Automated count,361.8,10*3/uL
+2023-12-03T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,8302-2,Body Height,173.9,cm
+2023-12-03T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,29463-7,Body Weight,86.3,kg
+2023-12-03T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,39156-5,Body mass index (BMI) [Ratio],28.5,kg/m2
+2023-12-03T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2023-12-03T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,8480-6,Systolic Blood Pressure,97.0,mm[Hg]
+2023-12-05T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,8302-2,Body Height,187.3,cm
+2023-12-05T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,29463-7,Body Weight,102.9,kg
+2023-12-05T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,39156-5,Body mass index (BMI) [Ratio],29.3,kg/m2
+2023-12-05T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,8462-4,Diastolic Blood Pressure,92.0,mm[Hg]
+2023-12-05T04:10:17Z,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,8480-6,Systolic Blood Pressure,151.0,mm[Hg]
+2023-12-12T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,8302-2,Body Height,152.7,cm
+2023-12-12T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,29463-7,Body Weight,70.4,kg
+2023-12-12T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2023-12-12T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,8462-4,Diastolic Blood Pressure,93.0,mm[Hg]
+2023-12-12T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,8480-6,Systolic Blood Pressure,129.0,mm[Hg]
+2023-12-14T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,8302-2,Body Height,182.8,cm
+2023-12-14T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,29463-7,Body Weight,101.2,kg
+2023-12-14T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,39156-5,Body mass index (BMI) [Ratio],30.3,kg/m2
+2023-12-14T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,8462-4,Diastolic Blood Pressure,76.0,mm[Hg]
+2023-12-14T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2023-12-18T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,67.9,mL/min
+2023-12-19T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,8302-2,Body Height,166.7,cm
+2023-12-19T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,29463-7,Body Weight,76.2,kg
+2023-12-19T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2023-12-19T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2023-12-19T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2024-01-03T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,8302-2,Body Height,162.0,cm
+2024-01-03T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,29463-7,Body Weight,55.0,kg
+2024-01-03T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,39156-5,Body mass index (BMI) [Ratio],21.0,kg/m2
+2024-01-03T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,8462-4,Diastolic Blood Pressure,76.0,mm[Hg]
+2024-01-03T23:47:40Z,3236b1f8-2bc1-3e38-c539-a29407c6a206,8480-6,Systolic Blood Pressure,98.0,mm[Hg]
+2024-01-04T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,8302-2,Body Height,163.0,cm
+2024-01-04T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,29463-7,Body Weight,80.3,kg
+2024-01-04T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2024-01-04T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,8462-4,Diastolic Blood Pressure,86.0,mm[Hg]
+2024-01-04T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,8480-6,Systolic Blood Pressure,119.0,mm[Hg]
+2024-01-09T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,8302-2,Body Height,160.8,cm
+2024-01-09T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,29463-7,Body Weight,77.7,kg
+2024-01-09T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2024-01-09T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,8462-4,Diastolic Blood Pressure,78.0,mm[Hg]
+2024-01-09T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,8480-6,Systolic Blood Pressure,106.0,mm[Hg]
+2024-01-12T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,8302-2,Body Height,161.7,cm
+2024-01-12T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,29463-7,Body Weight,75.6,kg
+2024-01-12T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,39156-5,Body mass index (BMI) [Ratio],28.9,kg/m2
+2024-01-12T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,8462-4,Diastolic Blood Pressure,68.0,mm[Hg]
+2024-01-12T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,8480-6,Systolic Blood Pressure,92.0,mm[Hg]
+2024-01-12T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,718-7,Hemoglobin [Mass/volume] in Blood,12.1,g/dL
+2024-01-12T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,777-3,Platelets [#/volume] in Blood by Automated count,335.2,10*3/uL
+2024-01-12T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,86.5,mL/min/{1.73_m2}
+2024-01-22T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,8302-2,Body Height,162.4,cm
+2024-01-22T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,29463-7,Body Weight,80.1,kg
+2024-01-22T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2024-01-22T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2024-01-22T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,8480-6,Systolic Blood Pressure,129.0,mm[Hg]
+2024-01-22T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,718-7,Hemoglobin [Mass/volume] in Blood,11.8,g/dL
+2024-01-22T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,777-3,Platelets [#/volume] in Blood by Automated count,282.9,10*3/uL
+2024-02-09T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,8302-2,Body Height,172.0,cm
+2024-02-09T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,29463-7,Body Weight,80.3,kg
+2024-02-09T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,39156-5,Body mass index (BMI) [Ratio],27.1,kg/m2
+2024-02-09T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,8462-4,Diastolic Blood Pressure,89.0,mm[Hg]
+2024-02-09T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2024-02-20T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,8302-2,Body Height,176.5,cm
+2024-02-20T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,29463-7,Body Weight,92.4,kg
+2024-02-20T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,39156-5,Body mass index (BMI) [Ratio],29.7,kg/m2
+2024-02-20T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,8462-4,Diastolic Blood Pressure,94.0,mm[Hg]
+2024-02-20T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,8480-6,Systolic Blood Pressure,119.0,mm[Hg]
+2024-02-24T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,8302-2,Body Height,180.6,cm
+2024-02-24T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,29463-7,Body Weight,97.4,kg
+2024-02-24T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,39156-5,Body mass index (BMI) [Ratio],29.9,kg/m2
+2024-02-24T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2024-02-24T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,8480-6,Systolic Blood Pressure,112.0,mm[Hg]
+2024-02-28T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,8302-2,Body Height,174.6,cm
+2024-02-28T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,29463-7,Body Weight,83.6,kg
+2024-02-28T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2024-02-28T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,8462-4,Diastolic Blood Pressure,89.0,mm[Hg]
+2024-02-28T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,8480-6,Systolic Blood Pressure,126.0,mm[Hg]
+2024-02-29T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,8302-2,Body Height,163.2,cm
+2024-02-29T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,29463-7,Body Weight,75.3,kg
+2024-02-29T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,39156-5,Body mass index (BMI) [Ratio],28.3,kg/m2
+2024-02-29T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2024-02-29T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,8480-6,Systolic Blood Pressure,109.0,mm[Hg]
+2024-03-15T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,8302-2,Body Height,173.1,cm
+2024-03-15T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,29463-7,Body Weight,91.2,kg
+2024-03-15T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2024-03-15T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2024-03-15T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2024-03-15T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,129.1,mL/min/{1.73_m2}
+2024-03-23T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,8302-2,Body Height,157.4,cm
+2024-03-23T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,29463-7,Body Weight,69.6,kg
+2024-03-23T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,39156-5,Body mass index (BMI) [Ratio],28.1,kg/m2
+2024-03-23T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,8462-4,Diastolic Blood Pressure,63.0,mm[Hg]
+2024-03-23T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,8480-6,Systolic Blood Pressure,83.0,mm[Hg]
+2024-03-23T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,69.3,mL/min/{1.73_m2}
+2024-03-24T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,8302-2,Body Height,153.2,cm
+2024-03-24T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,29463-7,Body Weight,65.5,kg
+2024-03-24T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,39156-5,Body mass index (BMI) [Ratio],27.9,kg/m2
+2024-03-24T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,8462-4,Diastolic Blood Pressure,70.0,mm[Hg]
+2024-03-24T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,8480-6,Systolic Blood Pressure,97.0,mm[Hg]
+2024-03-29T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,8302-2,Body Height,190.2,cm
+2024-03-29T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,29463-7,Body Weight,100.6,kg
+2024-03-29T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,39156-5,Body mass index (BMI) [Ratio],27.8,kg/m2
+2024-03-29T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2024-03-29T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,8480-6,Systolic Blood Pressure,122.0,mm[Hg]
+2024-03-30T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,8302-2,Body Height,173.5,cm
+2024-03-30T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,29463-7,Body Weight,107.2,kg
+2024-03-30T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,39156-5,Body mass index (BMI) [Ratio],35.6,kg/m2
+2024-03-30T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,8462-4,Diastolic Blood Pressure,86.0,mm[Hg]
+2024-03-30T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,8480-6,Systolic Blood Pressure,126.0,mm[Hg]
+2024-03-30T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,718-7,Hemoglobin [Mass/volume] in Blood,13.7,g/dL
+2024-03-30T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,777-3,Platelets [#/volume] in Blood by Automated count,432.2,10*3/uL
+2024-04-10T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,8302-2,Body Height,157.4,cm
+2024-04-10T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,29463-7,Body Weight,75.8,kg
+2024-04-10T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,39156-5,Body mass index (BMI) [Ratio],30.6,kg/m2
+2024-04-10T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2024-04-10T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2024-04-10T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,8302-2,Body Height,169.5,cm
+2024-04-10T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,29463-7,Body Weight,69.8,kg
+2024-04-10T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,39156-5,Body mass index (BMI) [Ratio],24.3,kg/m2
+2024-04-10T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,8462-4,Diastolic Blood Pressure,91.0,mm[Hg]
+2024-04-10T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,8480-6,Systolic Blood Pressure,110.0,mm[Hg]
+2024-04-11T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,8302-2,Body Height,173.1,cm
+2024-04-11T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,29463-7,Body Weight,86.4,kg
+2024-04-11T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,39156-5,Body mass index (BMI) [Ratio],28.8,kg/m2
+2024-04-11T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,8462-4,Diastolic Blood Pressure,91.0,mm[Hg]
+2024-04-11T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2024-04-13T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,8302-2,Body Height,163.8,cm
+2024-04-13T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,29463-7,Body Weight,79.4,kg
+2024-04-13T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,39156-5,Body mass index (BMI) [Ratio],29.6,kg/m2
+2024-04-13T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,8462-4,Diastolic Blood Pressure,86.0,mm[Hg]
+2024-04-13T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,8480-6,Systolic Blood Pressure,97.0,mm[Hg]
+2024-04-15T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,8302-2,Body Height,153.2,cm
+2024-04-15T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,29463-7,Body Weight,64.4,kg
+2024-04-15T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2024-04-15T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,8462-4,Diastolic Blood Pressure,88.0,mm[Hg]
+2024-04-15T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,8480-6,Systolic Blood Pressure,125.0,mm[Hg]
+2024-04-15T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,718-7,Hemoglobin [Mass/volume] in Blood,14.7,g/dL
+2024-04-15T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,777-3,Platelets [#/volume] in Blood by Automated count,167.8,10*3/uL
+2024-04-15T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,8302-2,Body Height,177.2,cm
+2024-04-15T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,29463-7,Body Weight,90.3,kg
+2024-04-15T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,39156-5,Body mass index (BMI) [Ratio],28.8,kg/m2
+2024-04-15T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,8462-4,Diastolic Blood Pressure,71.0,mm[Hg]
+2024-04-15T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,8480-6,Systolic Blood Pressure,105.0,mm[Hg]
+2024-04-15T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,8302-2,Body Height,158.3,cm
+2024-04-15T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,29463-7,Body Weight,71.6,kg
+2024-04-15T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,39156-5,Body mass index (BMI) [Ratio],28.6,kg/m2
+2024-04-15T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,8462-4,Diastolic Blood Pressure,78.0,mm[Hg]
+2024-04-15T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,8480-6,Systolic Blood Pressure,123.0,mm[Hg]
+2024-04-15T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,718-7,Hemoglobin [Mass/volume] in Blood,16.0,g/dL
+2024-04-15T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,777-3,Platelets [#/volume] in Blood by Automated count,191.5,10*3/uL
+2024-04-15T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,75.5,mL/min/{1.73_m2}
+2024-04-27T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,8302-2,Body Height,174.0,cm
+2024-04-27T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,29463-7,Body Weight,89.5,kg
+2024-04-27T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,39156-5,Body mass index (BMI) [Ratio],29.5,kg/m2
+2024-04-27T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,8462-4,Diastolic Blood Pressure,92.0,mm[Hg]
+2024-04-27T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,8480-6,Systolic Blood Pressure,132.0,mm[Hg]
+2024-05-02T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,8302-2,Body Height,163.7,cm
+2024-05-02T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,29463-7,Body Weight,81.2,kg
+2024-05-02T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,39156-5,Body mass index (BMI) [Ratio],30.3,kg/m2
+2024-05-02T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2024-05-02T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,8480-6,Systolic Blood Pressure,114.0,mm[Hg]
+2024-05-08T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,8302-2,Body Height,172.9,cm
+2024-05-08T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,29463-7,Body Weight,88.5,kg
+2024-05-08T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,39156-5,Body mass index (BMI) [Ratio],29.6,kg/m2
+2024-05-08T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2024-05-08T10:04:46Z,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,8480-6,Systolic Blood Pressure,140.0,mm[Hg]
+2024-05-20T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,8302-2,Body Height,175.9,cm
+2024-05-20T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,29463-7,Body Weight,74.3,kg
+2024-05-20T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,39156-5,Body mass index (BMI) [Ratio],24.0,kg/m2
+2024-05-20T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,8462-4,Diastolic Blood Pressure,100.0,mm[Hg]
+2024-05-20T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,8480-6,Systolic Blood Pressure,153.0,mm[Hg]
+2024-05-24T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,8302-2,Body Height,162.7,cm
+2024-05-24T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,29463-7,Body Weight,71.6,kg
+2024-05-24T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,39156-5,Body mass index (BMI) [Ratio],27.1,kg/m2
+2024-05-24T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,8462-4,Diastolic Blood Pressure,89.0,mm[Hg]
+2024-05-24T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,8480-6,Systolic Blood Pressure,124.0,mm[Hg]
+2024-05-25T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,80.1,mL/min
+2024-05-28T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,8302-2,Body Height,167.7,cm
+2024-05-28T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,29463-7,Body Weight,106.1,kg
+2024-05-28T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,39156-5,Body mass index (BMI) [Ratio],37.7,kg/m2
+2024-05-28T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2024-05-28T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,8480-6,Systolic Blood Pressure,124.0,mm[Hg]
+2024-06-01T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,8302-2,Body Height,160.8,cm
+2024-06-01T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,29463-7,Body Weight,74.0,kg
+2024-06-01T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,39156-5,Body mass index (BMI) [Ratio],28.6,kg/m2
+2024-06-01T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,8462-4,Diastolic Blood Pressure,65.0,mm[Hg]
+2024-06-01T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,8480-6,Systolic Blood Pressure,107.0,mm[Hg]
+2024-06-07T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,8302-2,Body Height,170.6,cm
+2024-06-07T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,29463-7,Body Weight,87.9,kg
+2024-06-07T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2024-06-07T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,8462-4,Diastolic Blood Pressure,64.0,mm[Hg]
+2024-06-07T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,8480-6,Systolic Blood Pressure,97.0,mm[Hg]
+2024-06-07T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,718-7,Hemoglobin [Mass/volume] in Blood,15.5,g/dL
+2024-06-07T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,777-3,Platelets [#/volume] in Blood by Automated count,366.6,10*3/uL
+2024-06-07T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,124.2,mL/min/{1.73_m2}
+2024-06-11T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,8302-2,Body Height,172.2,cm
+2024-06-11T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,29463-7,Body Weight,90.0,kg
+2024-06-11T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2024-06-11T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,8462-4,Diastolic Blood Pressure,74.0,mm[Hg]
+2024-06-11T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,8480-6,Systolic Blood Pressure,120.0,mm[Hg]
+2024-06-11T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,718-7,Hemoglobin [Mass/volume] in Blood,17.4,g/dL
+2024-06-11T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,777-3,Platelets [#/volume] in Blood by Automated count,150.4,10*3/uL
+2024-06-14T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,8302-2,Body Height,169.7,cm
+2024-06-14T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,29463-7,Body Weight,66.0,kg
+2024-06-14T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,39156-5,Body mass index (BMI) [Ratio],22.9,kg/m2
+2024-06-14T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2024-06-14T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2024-06-14T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,718-7,Hemoglobin [Mass/volume] in Blood,13.0,g/dL
+2024-06-14T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,777-3,Platelets [#/volume] in Blood by Automated count,177.6,10*3/uL
+2024-06-14T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,111.5,mL/min/{1.73_m2}
+2024-06-14T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,8302-2,Body Height,170.6,cm
+2024-06-14T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,29463-7,Body Weight,79.8,kg
+2024-06-14T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2024-06-14T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,8462-4,Diastolic Blood Pressure,78.0,mm[Hg]
+2024-06-14T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,8480-6,Systolic Blood Pressure,109.0,mm[Hg]
+2024-06-14T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,718-7,Hemoglobin [Mass/volume] in Blood,17.2,g/dL
+2024-06-14T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,777-3,Platelets [#/volume] in Blood by Automated count,425.8,10*3/uL
+2024-07-01T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,8302-2,Body Height,176.4,cm
+2024-07-01T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,29463-7,Body Weight,58.6,kg
+2024-07-01T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,39156-5,Body mass index (BMI) [Ratio],18.9,kg/m2
+2024-07-01T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,8462-4,Diastolic Blood Pressure,68.0,mm[Hg]
+2024-07-01T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,8480-6,Systolic Blood Pressure,116.0,mm[Hg]
+2024-07-07T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,8302-2,Body Height,150.0,cm
+2024-07-07T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,29463-7,Body Weight,67.6,kg
+2024-07-07T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,39156-5,Body mass index (BMI) [Ratio],30.0,kg/m2
+2024-07-07T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2024-07-07T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,8480-6,Systolic Blood Pressure,127.0,mm[Hg]
+2024-07-08T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,8302-2,Body Height,186.4,cm
+2024-07-08T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,29463-7,Body Weight,134.9,kg
+2024-07-08T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,39156-5,Body mass index (BMI) [Ratio],38.8,kg/m2
+2024-07-08T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,8462-4,Diastolic Blood Pressure,108.0,mm[Hg]
+2024-07-08T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,8480-6,Systolic Blood Pressure,147.0,mm[Hg]
+2024-07-21T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,8302-2,Body Height,172.7,cm
+2024-07-21T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,29463-7,Body Weight,81.9,kg
+2024-07-21T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,39156-5,Body mass index (BMI) [Ratio],27.5,kg/m2
+2024-07-21T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,8462-4,Diastolic Blood Pressure,94.0,mm[Hg]
+2024-07-21T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,8480-6,Systolic Blood Pressure,122.0,mm[Hg]
+2024-07-21T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,718-7,Hemoglobin [Mass/volume] in Blood,13.8,g/dL
+2024-07-21T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,777-3,Platelets [#/volume] in Blood by Automated count,370.0,10*3/uL
+2024-07-21T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,154.5,mL/min/{1.73_m2}
+2024-07-21T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,8302-2,Body Height,189.3,cm
+2024-07-21T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,29463-7,Body Weight,98.0,kg
+2024-07-21T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2024-07-21T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2024-07-21T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,8480-6,Systolic Blood Pressure,109.0,mm[Hg]
+2024-07-26T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,718-7,Hemoglobin [Mass/volume] in Blood,13.0,g/dL
+2024-07-26T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,777-3,Platelets [#/volume] in Blood by Automated count,284.6,10*3/uL
+2024-08-03T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,8302-2,Body Height,156.3,cm
+2024-08-03T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,29463-7,Body Weight,77.1,kg
+2024-08-03T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,39156-5,Body mass index (BMI) [Ratio],31.6,kg/m2
+2024-08-03T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2024-08-03T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,8480-6,Systolic Blood Pressure,100.0,mm[Hg]
+2024-08-10T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,718-7,Hemoglobin [Mass/volume] in Blood,11.2,g/dL
+2024-08-10T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,777-3,Platelets [#/volume] in Blood by Automated count,158.5,10*3/uL
+2024-08-11T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,8302-2,Body Height,178.1,cm
+2024-08-11T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,29463-7,Body Weight,76.5,kg
+2024-08-11T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,39156-5,Body mass index (BMI) [Ratio],24.1,kg/m2
+2024-08-11T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,8462-4,Diastolic Blood Pressure,79.0,mm[Hg]
+2024-08-11T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,8480-6,Systolic Blood Pressure,109.0,mm[Hg]
+2024-08-17T19:27:27Z,0399299d-024a-c139-e8b4-6ae7c67bc004,718-7,Hemoglobin [Mass/volume] in Blood,17.2,g/dL
+2024-08-17T19:27:27Z,0399299d-024a-c139-e8b4-6ae7c67bc004,777-3,Platelets [#/volume] in Blood by Automated count,325.2,10*3/uL
+2024-08-18T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,8302-2,Body Height,179.4,cm
+2024-08-18T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,29463-7,Body Weight,98.4,kg
+2024-08-18T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,39156-5,Body mass index (BMI) [Ratio],30.6,kg/m2
+2024-08-18T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,8462-4,Diastolic Blood Pressure,68.0,mm[Hg]
+2024-08-18T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,8480-6,Systolic Blood Pressure,117.0,mm[Hg]
+2024-08-24T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,89.6,mL/min
+2024-08-24T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,88.2,mL/min/{1.73_m2}
+2024-08-24T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,8302-2,Body Height,177.4,cm
+2024-08-24T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,29463-7,Body Weight,95.7,kg
+2024-08-24T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2024-08-24T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2024-08-24T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,8480-6,Systolic Blood Pressure,129.0,mm[Hg]
+2024-08-24T20:57:25Z,0399299d-024a-c139-e8b4-6ae7c67bc004,718-7,Hemoglobin [Mass/volume] in Blood,13.0,g/dL
+2024-08-24T20:57:25Z,0399299d-024a-c139-e8b4-6ae7c67bc004,777-3,Platelets [#/volume] in Blood by Automated count,444.1,10*3/uL
+2024-08-31T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,8302-2,Body Height,153.1,cm
+2024-08-31T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,29463-7,Body Weight,45.0,kg
+2024-08-31T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,39156-5,Body mass index (BMI) [Ratio],19.2,kg/m2
+2024-08-31T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,8462-4,Diastolic Blood Pressure,69.0,mm[Hg]
+2024-08-31T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,8480-6,Systolic Blood Pressure,110.0,mm[Hg]
+2024-08-31T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,8302-2,Body Height,185.2,cm
+2024-08-31T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,29463-7,Body Weight,98.0,kg
+2024-08-31T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,39156-5,Body mass index (BMI) [Ratio],28.6,kg/m2
+2024-08-31T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,8462-4,Diastolic Blood Pressure,66.0,mm[Hg]
+2024-08-31T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,8480-6,Systolic Blood Pressure,87.0,mm[Hg]
+2024-08-31T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,718-7,Hemoglobin [Mass/volume] in Blood,13.7,g/dL
+2024-08-31T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,777-3,Platelets [#/volume] in Blood by Automated count,246.7,10*3/uL
+2024-08-31T22:09:55Z,0399299d-024a-c139-e8b4-6ae7c67bc004,718-7,Hemoglobin [Mass/volume] in Blood,15.0,g/dL
+2024-08-31T22:09:55Z,0399299d-024a-c139-e8b4-6ae7c67bc004,777-3,Platelets [#/volume] in Blood by Automated count,156.0,10*3/uL
+2024-09-02T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,718-7,Hemoglobin [Mass/volume] in Blood,14.5,g/dL
+2024-09-02T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,777-3,Platelets [#/volume] in Blood by Automated count,229.4,10*3/uL
+2024-09-07T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,8302-2,Body Height,182.6,cm
+2024-09-07T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,29463-7,Body Weight,101.6,kg
+2024-09-07T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,39156-5,Body mass index (BMI) [Ratio],30.5,kg/m2
+2024-09-07T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,8462-4,Diastolic Blood Pressure,76.0,mm[Hg]
+2024-09-07T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,8480-6,Systolic Blood Pressure,119.0,mm[Hg]
+2024-09-07T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,74.3,mL/min
+2024-09-15T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,8302-2,Body Height,162.7,cm
+2024-09-15T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,29463-7,Body Weight,77.1,kg
+2024-09-15T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,39156-5,Body mass index (BMI) [Ratio],29.1,kg/m2
+2024-09-15T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,8462-4,Diastolic Blood Pressure,74.0,mm[Hg]
+2024-09-15T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2024-09-23T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,8302-2,Body Height,154.2,cm
+2024-09-23T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,29463-7,Body Weight,55.4,kg
+2024-09-23T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,39156-5,Body mass index (BMI) [Ratio],23.3,kg/m2
+2024-09-23T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,8462-4,Diastolic Blood Pressure,74.0,mm[Hg]
+2024-09-23T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,8480-6,Systolic Blood Pressure,129.0,mm[Hg]
+2024-09-23T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,718-7,Hemoglobin [Mass/volume] in Blood,15.5,g/dL
+2024-09-23T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,777-3,Platelets [#/volume] in Blood by Automated count,294.4,10*3/uL
+2024-09-24T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,8302-2,Body Height,152.0,cm
+2024-09-24T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,29463-7,Body Weight,70.7,kg
+2024-09-24T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,39156-5,Body mass index (BMI) [Ratio],30.6,kg/m2
+2024-09-24T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2024-09-24T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2024-10-03T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,8302-2,Body Height,174.6,cm
+2024-10-03T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,29463-7,Body Weight,88.1,kg
+2024-10-03T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,39156-5,Body mass index (BMI) [Ratio],28.9,kg/m2
+2024-10-03T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,8462-4,Diastolic Blood Pressure,51.0,mm[Hg]
+2024-10-03T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,8480-6,Systolic Blood Pressure,99.0,mm[Hg]
+2024-10-04T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,86.1,mL/min
+2024-10-08T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,8302-2,Body Height,172.9,cm
+2024-10-08T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,29463-7,Body Weight,90.1,kg
+2024-10-08T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2024-10-08T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,8462-4,Diastolic Blood Pressure,90.0,mm[Hg]
+2024-10-08T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,8480-6,Systolic Blood Pressure,137.0,mm[Hg]
+2024-10-08T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,718-7,Hemoglobin [Mass/volume] in Blood,12.8,g/dL
+2024-10-08T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,777-3,Platelets [#/volume] in Blood by Automated count,304.0,10*3/uL
+2024-11-03T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,8302-2,Body Height,153.2,cm
+2024-11-03T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,29463-7,Body Weight,69.1,kg
+2024-11-03T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,39156-5,Body mass index (BMI) [Ratio],29.5,kg/m2
+2024-11-03T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,8462-4,Diastolic Blood Pressure,76.0,mm[Hg]
+2024-11-03T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,8480-6,Systolic Blood Pressure,122.0,mm[Hg]
+2024-11-04T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,8302-2,Body Height,179.6,cm
+2024-11-04T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,29463-7,Body Weight,106.1,kg
+2024-11-04T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,39156-5,Body mass index (BMI) [Ratio],32.9,kg/m2
+2024-11-04T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,8462-4,Diastolic Blood Pressure,79.0,mm[Hg]
+2024-11-04T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2024-11-09T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,8302-2,Body Height,160.8,cm
+2024-11-09T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,29463-7,Body Weight,72.4,kg
+2024-11-09T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,39156-5,Body mass index (BMI) [Ratio],28.0,kg/m2
+2024-11-09T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,8462-4,Diastolic Blood Pressure,66.0,mm[Hg]
+2024-11-09T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2024-11-11T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,8302-2,Body Height,176.1,cm
+2024-11-11T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,29463-7,Body Weight,84.6,kg
+2024-11-11T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,39156-5,Body mass index (BMI) [Ratio],27.3,kg/m2
+2024-11-11T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2024-11-11T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,8480-6,Systolic Blood Pressure,125.0,mm[Hg]
+2024-11-14T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,8302-2,Body Height,167.2,cm
+2024-11-14T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,29463-7,Body Weight,84.2,kg
+2024-11-14T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2024-11-14T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,8462-4,Diastolic Blood Pressure,79.0,mm[Hg]
+2024-11-14T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,8480-6,Systolic Blood Pressure,127.0,mm[Hg]
+2024-11-22T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,8302-2,Body Height,166.4,cm
+2024-11-22T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,29463-7,Body Weight,83.5,kg
+2024-11-22T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2024-11-22T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,8462-4,Diastolic Blood Pressure,87.0,mm[Hg]
+2024-11-22T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,8480-6,Systolic Blood Pressure,118.0,mm[Hg]
+2024-11-22T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,718-7,Hemoglobin [Mass/volume] in Blood,13.2,g/dL
+2024-11-22T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,777-3,Platelets [#/volume] in Blood by Automated count,214.2,10*3/uL
+2024-11-26T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,8302-2,Body Height,172.9,cm
+2024-11-26T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,29463-7,Body Weight,90.1,kg
+2024-11-26T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2024-11-26T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,8462-4,Diastolic Blood Pressure,86.0,mm[Hg]
+2024-11-26T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,8480-6,Systolic Blood Pressure,133.0,mm[Hg]
+2024-11-27T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,8302-2,Body Height,162.9,cm
+2024-11-27T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,29463-7,Body Weight,52.3,kg
+2024-11-27T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,39156-5,Body mass index (BMI) [Ratio],19.7,kg/m2
+2024-11-27T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2024-11-27T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,8480-6,Systolic Blood Pressure,98.0,mm[Hg]
+2024-12-08T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,8302-2,Body Height,173.9,cm
+2024-12-08T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,29463-7,Body Weight,88.1,kg
+2024-12-08T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,39156-5,Body mass index (BMI) [Ratio],29.1,kg/m2
+2024-12-08T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,8462-4,Diastolic Blood Pressure,98.0,mm[Hg]
+2024-12-08T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,8480-6,Systolic Blood Pressure,136.0,mm[Hg]
+2024-12-08T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,718-7,Hemoglobin [Mass/volume] in Blood,14.7,g/dL
+2024-12-08T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,777-3,Platelets [#/volume] in Blood by Automated count,410.6,10*3/uL
+2024-12-14T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,8302-2,Body Height,176.5,cm
+2024-12-14T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,29463-7,Body Weight,87.4,kg
+2024-12-14T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,39156-5,Body mass index (BMI) [Ratio],28.1,kg/m2
+2024-12-14T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,8462-4,Diastolic Blood Pressure,59.0,mm[Hg]
+2024-12-14T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,8480-6,Systolic Blood Pressure,92.0,mm[Hg]
+2024-12-14T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,155.4,mL/min/{1.73_m2}
+2024-12-17T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,81.0,mL/min
+2024-12-19T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,8302-2,Body Height,182.8,cm
+2024-12-19T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,29463-7,Body Weight,101.2,kg
+2024-12-19T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,39156-5,Body mass index (BMI) [Ratio],30.3,kg/m2
+2024-12-19T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,8462-4,Diastolic Blood Pressure,79.0,mm[Hg]
+2024-12-19T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,8480-6,Systolic Blood Pressure,106.0,mm[Hg]
+2024-12-19T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,718-7,Hemoglobin [Mass/volume] in Blood,15.7,g/dL
+2024-12-19T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,777-3,Platelets [#/volume] in Blood by Automated count,152.1,10*3/uL
+2024-12-24T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,8302-2,Body Height,166.7,cm
+2024-12-24T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,29463-7,Body Weight,76.2,kg
+2024-12-24T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2024-12-24T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2024-12-24T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,8480-6,Systolic Blood Pressure,105.0,mm[Hg]
+2025-01-09T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,8302-2,Body Height,163.0,cm
+2025-01-09T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,29463-7,Body Weight,80.0,kg
+2025-01-09T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2025-01-09T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,8462-4,Diastolic Blood Pressure,86.0,mm[Hg]
+2025-01-09T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,8480-6,Systolic Blood Pressure,118.0,mm[Hg]
+2025-01-17T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,8302-2,Body Height,169.4,cm
+2025-01-17T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,29463-7,Body Weight,69.0,kg
+2025-01-17T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,39156-5,Body mass index (BMI) [Ratio],24.1,kg/m2
+2025-01-17T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,8462-4,Diastolic Blood Pressure,79.0,mm[Hg]
+2025-01-17T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,8480-6,Systolic Blood Pressure,139.0,mm[Hg]
+2025-01-17T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,718-7,Hemoglobin [Mass/volume] in Blood,14.7,g/dL
+2025-01-17T08:03:49Z,2de4dd0d-f665-8a2e-4c6b-997735e14ace,777-3,Platelets [#/volume] in Blood by Automated count,382.3,10*3/uL
+2025-01-17T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,8302-2,Body Height,161.7,cm
+2025-01-17T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,29463-7,Body Weight,77.2,kg
+2025-01-17T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,39156-5,Body mass index (BMI) [Ratio],29.5,kg/m2
+2025-01-17T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,8462-4,Diastolic Blood Pressure,73.0,mm[Hg]
+2025-01-17T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,8480-6,Systolic Blood Pressure,94.0,mm[Hg]
+2025-01-17T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,66.3,mL/min/{1.73_m2}
+2025-01-24T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,8302-2,Body Height,178.1,cm
+2025-01-24T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,29463-7,Body Weight,86.6,kg
+2025-01-24T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,39156-5,Body mass index (BMI) [Ratio],27.3,kg/m2
+2025-01-27T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,8302-2,Body Height,162.4,cm
+2025-01-27T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,29463-7,Body Weight,80.1,kg
+2025-01-27T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2025-01-27T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,8462-4,Diastolic Blood Pressure,71.0,mm[Hg]
+2025-01-27T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,8480-6,Systolic Blood Pressure,126.0,mm[Hg]
+2025-01-27T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,718-7,Hemoglobin [Mass/volume] in Blood,17.2,g/dL
+2025-01-27T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,777-3,Platelets [#/volume] in Blood by Automated count,412.7,10*3/uL
+2025-01-29T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,8302-2,Body Height,170.9,cm
+2025-01-29T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,29463-7,Body Weight,80.4,kg
+2025-01-29T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,39156-5,Body mass index (BMI) [Ratio],27.5,kg/m2
+2025-01-29T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2025-01-29T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,8480-6,Systolic Blood Pressure,103.0,mm[Hg]
+2025-02-02T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,8302-2,Body Height,153.2,cm
+2025-02-02T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,29463-7,Body Weight,65.5,kg
+2025-02-02T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,39156-5,Body mass index (BMI) [Ratio],27.9,kg/m2
+2025-02-02T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,8462-4,Diastolic Blood Pressure,68.0,mm[Hg]
+2025-02-02T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2025-02-03T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,74.5,mL/min
+2025-02-11T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,718-7,Hemoglobin [Mass/volume] in Blood,11.8,g/dL
+2025-02-11T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,777-3,Platelets [#/volume] in Blood by Automated count,278.9,10*3/uL
+2025-02-14T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,8302-2,Body Height,172.0,cm
+2025-02-14T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,29463-7,Body Weight,80.3,kg
+2025-02-14T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,39156-5,Body mass index (BMI) [Ratio],27.1,kg/m2
+2025-02-14T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,8462-4,Diastolic Blood Pressure,92.0,mm[Hg]
+2025-02-14T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2025-02-15T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,8302-2,Body Height,163.5,cm
+2025-02-15T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,29463-7,Body Weight,83.4,kg
+2025-02-15T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,39156-5,Body mass index (BMI) [Ratio],31.2,kg/m2
+2025-02-15T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,8462-4,Diastolic Blood Pressure,78.0,mm[Hg]
+2025-02-15T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,8480-6,Systolic Blood Pressure,117.0,mm[Hg]
+2025-02-15T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,718-7,Hemoglobin [Mass/volume] in Blood,12.4,g/dL
+2025-02-15T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,777-3,Platelets [#/volume] in Blood by Automated count,284.1,10*3/uL
+2025-02-15T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,8302-2,Body Height,157.4,cm
+2025-02-15T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,29463-7,Body Weight,69.6,kg
+2025-02-15T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,39156-5,Body mass index (BMI) [Ratio],28.1,kg/m2
+2025-02-15T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,8462-4,Diastolic Blood Pressure,63.0,mm[Hg]
+2025-02-15T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,8480-6,Systolic Blood Pressure,83.0,mm[Hg]
+2025-02-15T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,113.6,mL/min/{1.73_m2}
+2025-02-25T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,8302-2,Body Height,176.5,cm
+2025-02-25T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,29463-7,Body Weight,87.3,kg
+2025-02-25T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,39156-5,Body mass index (BMI) [Ratio],28.0,kg/m2
+2025-02-25T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,8462-4,Diastolic Blood Pressure,91.0,mm[Hg]
+2025-02-25T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,8480-6,Systolic Blood Pressure,114.0,mm[Hg]
+2025-02-25T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,718-7,Hemoglobin [Mass/volume] in Blood,16.7,g/dL
+2025-02-25T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,777-3,Platelets [#/volume] in Blood by Automated count,406.6,10*3/uL
+2025-03-01T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,8302-2,Body Height,180.6,cm
+2025-03-01T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,29463-7,Body Weight,92.3,kg
+2025-03-01T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,39156-5,Body mass index (BMI) [Ratio],28.3,kg/m2
+2025-03-01T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2025-03-01T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,8480-6,Systolic Blood Pressure,126.0,mm[Hg]
+2025-03-05T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,8302-2,Body Height,174.6,cm
+2025-03-05T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,29463-7,Body Weight,84.8,kg
+2025-03-05T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,39156-5,Body mass index (BMI) [Ratio],27.8,kg/m2
+2025-03-05T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,8462-4,Diastolic Blood Pressure,88.0,mm[Hg]
+2025-03-05T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2025-03-05T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,718-7,Hemoglobin [Mass/volume] in Blood,13.5,g/dL
+2025-03-05T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,777-3,Platelets [#/volume] in Blood by Automated count,240.7,10*3/uL
+2025-03-06T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,8302-2,Body Height,163.2,cm
+2025-03-06T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,29463-7,Body Weight,77.1,kg
+2025-03-06T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,39156-5,Body mass index (BMI) [Ratio],29.0,kg/m2
+2025-03-06T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2025-03-06T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,8480-6,Systolic Blood Pressure,114.0,mm[Hg]
+2025-03-21T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,8302-2,Body Height,173.1,cm
+2025-03-21T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,29463-7,Body Weight,91.2,kg
+2025-03-21T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2025-03-21T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2025-03-21T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,8480-6,Systolic Blood Pressure,97.0,mm[Hg]
+2025-03-21T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,86.7,mL/min/{1.73_m2}
+2025-03-24T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,8302-2,Body Height,186.4,cm
+2025-03-24T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,29463-7,Body Weight,134.9,kg
+2025-03-24T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,39156-5,Body mass index (BMI) [Ratio],38.8,kg/m2
+2025-03-24T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,8462-4,Diastolic Blood Pressure,113.0,mm[Hg]
+2025-03-24T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,8480-6,Systolic Blood Pressure,159.0,mm[Hg]
+2025-04-05T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,8302-2,Body Height,173.5,cm
+2025-04-05T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,29463-7,Body Weight,107.9,kg
+2025-04-05T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,39156-5,Body mass index (BMI) [Ratio],35.9,kg/m2
+2025-04-05T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2025-04-05T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,8480-6,Systolic Blood Pressure,131.0,mm[Hg]
+2025-04-16T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,8302-2,Body Height,157.4,cm
+2025-04-16T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,29463-7,Body Weight,71.6,kg
+2025-04-16T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,39156-5,Body mass index (BMI) [Ratio],28.9,kg/m2
+2025-04-16T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2025-04-16T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,8480-6,Systolic Blood Pressure,109.0,mm[Hg]
+2025-04-16T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,718-7,Hemoglobin [Mass/volume] in Blood,13.9,g/dL
+2025-04-16T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,777-3,Platelets [#/volume] in Blood by Automated count,252.0,10*3/uL
+2025-04-16T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,8302-2,Body Height,169.5,cm
+2025-04-16T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,29463-7,Body Weight,69.8,kg
+2025-04-16T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,39156-5,Body mass index (BMI) [Ratio],24.3,kg/m2
+2025-04-16T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,8462-4,Diastolic Blood Pressure,89.0,mm[Hg]
+2025-04-16T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2025-04-16T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,718-7,Hemoglobin [Mass/volume] in Blood,13.5,g/dL
+2025-04-16T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,777-3,Platelets [#/volume] in Blood by Automated count,300.8,10*3/uL
+2025-04-17T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,8302-2,Body Height,173.1,cm
+2025-04-17T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,29463-7,Body Weight,88.3,kg
+2025-04-17T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,39156-5,Body mass index (BMI) [Ratio],29.5,kg/m2
+2025-04-17T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,8462-4,Diastolic Blood Pressure,97.0,mm[Hg]
+2025-04-17T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,8480-6,Systolic Blood Pressure,112.0,mm[Hg]
+2025-04-17T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,718-7,Hemoglobin [Mass/volume] in Blood,12.5,g/dL
+2025-04-17T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,777-3,Platelets [#/volume] in Blood by Automated count,165.7,10*3/uL
+2025-04-19T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,8302-2,Body Height,163.8,cm
+2025-04-19T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,29463-7,Body Weight,74.7,kg
+2025-04-19T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,39156-5,Body mass index (BMI) [Ratio],27.9,kg/m2
+2025-04-19T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2025-04-19T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,8480-6,Systolic Blood Pressure,107.0,mm[Hg]
+2025-04-19T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,718-7,Hemoglobin [Mass/volume] in Blood,17.0,g/dL
+2025-04-19T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,777-3,Platelets [#/volume] in Blood by Automated count,162.7,10*3/uL
+2025-04-21T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,8302-2,Body Height,153.2,cm
+2025-04-21T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,29463-7,Body Weight,66.2,kg
+2025-04-21T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,39156-5,Body mass index (BMI) [Ratio],28.2,kg/m2
+2025-04-21T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,8462-4,Diastolic Blood Pressure,93.0,mm[Hg]
+2025-04-21T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,8480-6,Systolic Blood Pressure,125.0,mm[Hg]
+2025-04-21T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,8302-2,Body Height,177.2,cm
+2025-04-21T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,29463-7,Body Weight,92.5,kg
+2025-04-21T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,39156-5,Body mass index (BMI) [Ratio],29.5,kg/m2
+2025-04-21T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,8462-4,Diastolic Blood Pressure,74.0,mm[Hg]
+2025-04-21T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2025-04-21T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,718-7,Hemoglobin [Mass/volume] in Blood,15.9,g/dL
+2025-04-21T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,777-3,Platelets [#/volume] in Blood by Automated count,327.3,10*3/uL
+2025-04-21T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,8302-2,Body Height,158.3,cm
+2025-04-21T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,29463-7,Body Weight,73.1,kg
+2025-04-21T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,39156-5,Body mass index (BMI) [Ratio],29.2,kg/m2
+2025-04-21T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,8462-4,Diastolic Blood Pressure,70.0,mm[Hg]
+2025-04-21T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,8480-6,Systolic Blood Pressure,126.0,mm[Hg]
+2025-04-21T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,90.2,mL/min/{1.73_m2}
+2025-04-28T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,8302-2,Body Height,175.9,cm
+2025-04-28T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,29463-7,Body Weight,76.1,kg
+2025-04-28T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,39156-5,Body mass index (BMI) [Ratio],24.6,kg/m2
+2025-04-28T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,8462-4,Diastolic Blood Pressure,93.0,mm[Hg]
+2025-04-28T05:18:05Z,4f083ce3-f12b-bb4b-7353-e17f0cd55b0a,8480-6,Systolic Blood Pressure,148.0,mm[Hg]
+2025-04-28T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,8302-2,Body Height,169.5,cm
+2025-04-28T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,29463-7,Body Weight,113.9,kg
+2025-04-28T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,39156-5,Body mass index (BMI) [Ratio],39.6,kg/m2
+2025-04-28T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2025-04-28T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,8480-6,Systolic Blood Pressure,122.0,mm[Hg]
+2025-04-28T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,718-7,Hemoglobin [Mass/volume] in Blood,17.4,g/dL
+2025-04-28T09:40:47Z,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,777-3,Platelets [#/volume] in Blood by Automated count,443.8,10*3/uL
+2025-05-03T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,718-7,Hemoglobin [Mass/volume] in Blood,11.3,g/dL
+2025-05-03T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,777-3,Platelets [#/volume] in Blood by Automated count,369.9,10*3/uL
+2025-05-03T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,8302-2,Body Height,174.5,cm
+2025-05-03T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,29463-7,Body Weight,87.2,kg
+2025-05-03T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2
+2025-05-03T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,8462-4,Diastolic Blood Pressure,95.0,mm[Hg]
+2025-05-03T08:59:02Z,4aaa0001-3832-cc52-e2f3-47aad08f4284,8480-6,Systolic Blood Pressure,131.0,mm[Hg]
+2025-05-08T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,8302-2,Body Height,163.7,cm
+2025-05-08T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,29463-7,Body Weight,81.2,kg
+2025-05-08T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,39156-5,Body mass index (BMI) [Ratio],30.3,kg/m2
+2025-05-08T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2025-05-08T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,8480-6,Systolic Blood Pressure,116.0,mm[Hg]
+2025-05-18T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,8302-2,Body Height,189.3,cm
+2025-05-18T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,29463-7,Body Weight,98.0,kg
+2025-05-18T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2025-05-18T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,8462-4,Diastolic Blood Pressure,73.0,mm[Hg]
+2025-05-18T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2025-05-21T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,8302-2,Body Height,159.6,cm
+2025-05-21T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,29463-7,Body Weight,72.4,kg
+2025-05-21T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,39156-5,Body mass index (BMI) [Ratio],28.4,kg/m2
+2025-05-21T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,8462-4,Diastolic Blood Pressure,57.0,mm[Hg]
+2025-05-21T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,8480-6,Systolic Blood Pressure,103.0,mm[Hg]
+2025-05-21T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,97.7,mL/min/{1.73_m2}
+2025-05-30T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,8302-2,Body Height,162.7,cm
+2025-05-30T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,29463-7,Body Weight,71.6,kg
+2025-05-30T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,39156-5,Body mass index (BMI) [Ratio],27.1,kg/m2
+2025-05-30T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2025-05-30T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,8480-6,Systolic Blood Pressure,117.0,mm[Hg]
+2025-06-03T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,8302-2,Body Height,167.7,cm
+2025-06-03T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,29463-7,Body Weight,106.1,kg
+2025-06-03T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,39156-5,Body mass index (BMI) [Ratio],37.7,kg/m2
+2025-06-03T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,8462-4,Diastolic Blood Pressure,73.0,mm[Hg]
+2025-06-03T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,8480-6,Systolic Blood Pressure,130.0,mm[Hg]
+2025-06-03T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,718-7,Hemoglobin [Mass/volume] in Blood,13.0,g/dL
+2025-06-03T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,777-3,Platelets [#/volume] in Blood by Automated count,237.5,10*3/uL
+2025-06-03T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,131.1,mL/min/{1.73_m2}
+2025-06-06T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,66.2,mL/min
+2025-06-13T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,8302-2,Body Height,170.6,cm
+2025-06-13T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,29463-7,Body Weight,87.9,kg
+2025-06-13T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2025-06-13T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,8462-4,Diastolic Blood Pressure,62.0,mm[Hg]
+2025-06-13T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,8480-6,Systolic Blood Pressure,98.0,mm[Hg]
+2025-06-13T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,130.5,mL/min/{1.73_m2}
+2025-06-17T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,8302-2,Body Height,172.2,cm
+2025-06-17T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,29463-7,Body Weight,90.0,kg
+2025-06-17T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2025-06-17T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,8462-4,Diastolic Blood Pressure,68.0,mm[Hg]
+2025-06-17T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,8480-6,Systolic Blood Pressure,121.0,mm[Hg]
+2025-06-20T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,8302-2,Body Height,169.7,cm
+2025-06-20T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,29463-7,Body Weight,68.0,kg
+2025-06-20T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,39156-5,Body mass index (BMI) [Ratio],23.6,kg/m2
+2025-06-20T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2025-06-20T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,8480-6,Systolic Blood Pressure,120.0,mm[Hg]
+2025-06-20T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,94.0,mL/min/{1.73_m2}
+2025-06-20T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,8302-2,Body Height,170.6,cm
+2025-06-20T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,29463-7,Body Weight,79.8,kg
+2025-06-20T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2025-06-20T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2025-06-20T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2025-07-02T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,8302-2,Body Height,176.6,cm
+2025-07-02T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,29463-7,Body Weight,82.2,kg
+2025-07-02T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,39156-5,Body mass index (BMI) [Ratio],26.4,kg/m2
+2025-07-02T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2025-07-02T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,8480-6,Systolic Blood Pressure,127.0,mm[Hg]
+2025-07-07T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,8302-2,Body Height,176.8,cm
+2025-07-07T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,29463-7,Body Weight,57.4,kg
+2025-07-07T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,39156-5,Body mass index (BMI) [Ratio],18.4,kg/m2
+2025-07-07T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,8462-4,Diastolic Blood Pressure,76.0,mm[Hg]
+2025-07-07T16:42:36Z,6550f07d-78c7-bd66-5faa-a6aa4604e490,8480-6,Systolic Blood Pressure,102.0,mm[Hg]
+2025-07-08T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,8302-2,Body Height,162.4,cm
+2025-07-08T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,29463-7,Body Weight,73.3,kg
+2025-07-08T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,39156-5,Body mass index (BMI) [Ratio],27.8,kg/m2
+2025-07-08T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,8462-4,Diastolic Blood Pressure,91.0,mm[Hg]
+2025-07-08T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,8480-6,Systolic Blood Pressure,134.0,mm[Hg]
+2025-07-12T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,8302-2,Body Height,176.5,cm
+2025-07-12T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,29463-7,Body Weight,87.4,kg
+2025-07-12T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,39156-5,Body mass index (BMI) [Ratio],28.1,kg/m2
+2025-07-12T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,8462-4,Diastolic Blood Pressure,64.0,mm[Hg]
+2025-07-12T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,8480-6,Systolic Blood Pressure,92.0,mm[Hg]
+2025-07-12T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,125.3,mL/min/{1.73_m2}
+2025-07-13T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,8302-2,Body Height,150.0,cm
+2025-07-13T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,29463-7,Body Weight,67.6,kg
+2025-07-13T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,39156-5,Body mass index (BMI) [Ratio],30.0,kg/m2
+2025-07-13T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2025-07-13T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,8480-6,Systolic Blood Pressure,122.0,mm[Hg]
+2025-07-16T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,8302-2,Body Height,189.3,cm
+2025-07-16T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,29463-7,Body Weight,90.9,kg
+2025-07-16T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,39156-5,Body mass index (BMI) [Ratio],25.4,kg/m2
+2025-07-16T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,8462-4,Diastolic Blood Pressure,74.0,mm[Hg]
+2025-07-16T12:04:11Z,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,8480-6,Systolic Blood Pressure,135.0,mm[Hg]
+2025-07-18T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,8302-2,Body Height,178.1,cm
+2025-07-18T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,29463-7,Body Weight,94.0,kg
+2025-07-18T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,39156-5,Body mass index (BMI) [Ratio],29.6,kg/m2
+2025-07-18T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,8462-4,Diastolic Blood Pressure,75.0,mm[Hg]
+2025-07-18T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,8480-6,Systolic Blood Pressure,143.0,mm[Hg]
+2025-07-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,8302-2,Body Height,152.5,cm
+2025-07-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,29463-7,Body Weight,49.3,kg
+2025-07-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,39156-5,Body mass index (BMI) [Ratio],21.2,kg/m2
+2025-07-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2025-07-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2025-07-27T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,8302-2,Body Height,172.7,cm
+2025-07-27T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,29463-7,Body Weight,81.9,kg
+2025-07-27T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,39156-5,Body mass index (BMI) [Ratio],27.5,kg/m2
+2025-07-27T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,8462-4,Diastolic Blood Pressure,91.0,mm[Hg]
+2025-07-27T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,8480-6,Systolic Blood Pressure,112.0,mm[Hg]
+2025-07-27T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,150.0,mL/min/{1.73_m2}
+2025-08-01T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,8302-2,Body Height,178.1,cm
+2025-08-01T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,29463-7,Body Weight,86.6,kg
+2025-08-01T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,39156-5,Body mass index (BMI) [Ratio],27.3,kg/m2
+2025-08-01T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,8462-4,Diastolic Blood Pressure,88.0,mm[Hg]
+2025-08-01T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,8480-6,Systolic Blood Pressure,130.0,mm[Hg]
+2025-08-01T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,80.8,mL/min/{1.73_m2}
+2025-08-09T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,8302-2,Body Height,156.3,cm
+2025-08-09T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,29463-7,Body Weight,78.7,kg
+2025-08-09T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,39156-5,Body mass index (BMI) [Ratio],32.2,kg/m2
+2025-08-09T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2025-08-09T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,8480-6,Systolic Blood Pressure,107.0,mm[Hg]
+2025-08-11T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,8302-2,Body Height,164.8,cm
+2025-08-11T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,29463-7,Body Weight,83.1,kg
+2025-08-11T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,39156-5,Body mass index (BMI) [Ratio],30.6,kg/m2
+2025-08-11T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2025-08-11T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,8480-6,Systolic Blood Pressure,99.0,mm[Hg]
+2025-08-15T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,8302-2,Body Height,180.8,cm
+2025-08-15T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,29463-7,Body Weight,96.1,kg
+2025-08-15T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,39156-5,Body mass index (BMI) [Ratio],29.4,kg/m2
+2025-08-15T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,8462-4,Diastolic Blood Pressure,67.0,mm[Hg]
+2025-08-15T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,8480-6,Systolic Blood Pressure,98.0,mm[Hg]
+2025-08-17T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,8302-2,Body Height,178.1,cm
+2025-08-17T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,29463-7,Body Weight,77.8,kg
+2025-08-17T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,39156-5,Body mass index (BMI) [Ratio],24.5,kg/m2
+2025-08-17T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2025-08-17T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2025-08-17T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,718-7,Hemoglobin [Mass/volume] in Blood,12.8,g/dL
+2025-08-17T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,777-3,Platelets [#/volume] in Blood by Automated count,298.1,10*3/uL
+2025-08-18T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,718-7,Hemoglobin [Mass/volume] in Blood,11.4,g/dL
+2025-08-18T12:38:49Z,6fbddf55-7096-b883-7cd3-260f27953080,777-3,Platelets [#/volume] in Blood by Automated count,254.7,10*3/uL
+2025-08-21T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,8302-2,Body Height,170.3,cm
+2025-08-21T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,29463-7,Body Weight,65.8,kg
+2025-08-21T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,39156-5,Body mass index (BMI) [Ratio],22.7,kg/m2
+2025-08-21T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,8462-4,Diastolic Blood Pressure,78.0,mm[Hg]
+2025-08-21T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,8480-6,Systolic Blood Pressure,104.0,mm[Hg]
+2025-08-24T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,73.7,mL/min
+2025-08-24T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,8302-2,Body Height,179.4,cm
+2025-08-24T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,29463-7,Body Weight,98.4,kg
+2025-08-24T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,39156-5,Body mass index (BMI) [Ratio],30.6,kg/m2
+2025-08-24T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,8462-4,Diastolic Blood Pressure,72.0,mm[Hg]
+2025-08-24T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2025-08-24T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,718-7,Hemoglobin [Mass/volume] in Blood,13.9,g/dL
+2025-08-24T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,777-3,Platelets [#/volume] in Blood by Automated count,372.2,10*3/uL
+2025-08-30T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,81.3,mL/min/{1.73_m2}
+2025-08-30T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,8302-2,Body Height,177.4,cm
+2025-08-30T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,29463-7,Body Weight,95.7,kg
+2025-08-30T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2025-08-30T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2025-08-30T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,8480-6,Systolic Blood Pressure,128.0,mm[Hg]
+2025-09-01T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,8302-2,Body Height,154.2,cm
+2025-09-01T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,29463-7,Body Weight,57.2,kg
+2025-09-01T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,39156-5,Body mass index (BMI) [Ratio],24.1,kg/m2
+2025-09-01T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,8462-4,Diastolic Blood Pressure,72.0,mm[Hg]
+2025-09-01T19:47:12Z,8e6f1056-7af7-9eab-f985-c9c9c13e0095,8480-6,Systolic Blood Pressure,119.0,mm[Hg]
+2025-09-03T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,8302-2,Body Height,176.6,cm
+2025-09-03T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,29463-7,Body Weight,82.2,kg
+2025-09-03T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,39156-5,Body mass index (BMI) [Ratio],26.4,kg/m2
+2025-09-03T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2025-09-03T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,8480-6,Systolic Blood Pressure,126.0,mm[Hg]
+2025-09-06T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,8302-2,Body Height,159.2,cm
+2025-09-06T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,29463-7,Body Weight,75.4,kg
+2025-09-06T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,39156-5,Body mass index (BMI) [Ratio],29.7,kg/m2
+2025-09-06T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2025-09-06T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,8480-6,Systolic Blood Pressure,135.0,mm[Hg]
+2025-09-06T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,8302-2,Body Height,153.2,cm
+2025-09-06T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,29463-7,Body Weight,46.8,kg
+2025-09-06T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,39156-5,Body mass index (BMI) [Ratio],20.0,kg/m2
+2025-09-06T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,8462-4,Diastolic Blood Pressure,71.0,mm[Hg]
+2025-09-06T13:28:52Z,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2025-09-06T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,8302-2,Body Height,185.2,cm
+2025-09-06T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,29463-7,Body Weight,99.9,kg
+2025-09-06T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,39156-5,Body mass index (BMI) [Ratio],29.1,kg/m2
+2025-09-06T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,8462-4,Diastolic Blood Pressure,61.0,mm[Hg]
+2025-09-06T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,8480-6,Systolic Blood Pressure,95.0,mm[Hg]
+2025-09-07T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,80.8,mL/min
+2025-09-12T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,8302-2,Body Height,166.4,cm
+2025-09-12T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,29463-7,Body Weight,83.5,kg
+2025-09-12T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2025-09-12T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2025-09-12T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,8480-6,Systolic Blood Pressure,114.0,mm[Hg]
+2025-09-21T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,8302-2,Body Height,162.7,cm
+2025-09-21T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,29463-7,Body Weight,78.1,kg
+2025-09-21T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,39156-5,Body mass index (BMI) [Ratio],29.5,kg/m2
+2025-09-21T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,8462-4,Diastolic Blood Pressure,76.0,mm[Hg]
+2025-09-21T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2025-09-25T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,8302-2,Body Height,164.2,cm
+2025-09-25T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,29463-7,Body Weight,28.0,kg
+2025-09-25T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,39156-5,Body mass index (BMI) [Ratio],10.4,kg/m2
+2025-09-25T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,8462-4,Diastolic Blood Pressure,70.0,mm[Hg]
+2025-09-25T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,8480-6,Systolic Blood Pressure,107.0,mm[Hg]
+2025-09-30T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,8302-2,Body Height,152.0,cm
+2025-09-30T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,29463-7,Body Weight,70.7,kg
+2025-09-30T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,39156-5,Body mass index (BMI) [Ratio],30.6,kg/m2
+2025-09-30T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2025-09-30T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2025-09-30T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,718-7,Hemoglobin [Mass/volume] in Blood,13.3,g/dL
+2025-09-30T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,777-3,Platelets [#/volume] in Blood by Automated count,218.3,10*3/uL
+2025-10-04T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,8302-2,Body Height,159.2,cm
+2025-10-04T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,29463-7,Body Weight,75.5,kg
+2025-10-04T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,39156-5,Body mass index (BMI) [Ratio],29.8,kg/m2
+2025-10-04T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2025-10-04T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,8480-6,Systolic Blood Pressure,144.0,mm[Hg]
+2025-10-09T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,8302-2,Body Height,174.6,cm
+2025-10-09T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,29463-7,Body Weight,88.1,kg
+2025-10-09T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,39156-5,Body mass index (BMI) [Ratio],28.9,kg/m2
+2025-10-09T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,8462-4,Diastolic Blood Pressure,62.0,mm[Hg]
+2025-10-09T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,8480-6,Systolic Blood Pressure,99.0,mm[Hg]
+2025-10-16T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,80.8,mL/min
+2025-10-17T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,8302-2,Body Height,180.8,cm
+2025-10-17T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,29463-7,Body Weight,96.4,kg
+2025-10-17T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,39156-5,Body mass index (BMI) [Ratio],29.5,kg/m2
+2025-10-17T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,8462-4,Diastolic Blood Pressure,70.0,mm[Hg]
+2025-10-17T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,8480-6,Systolic Blood Pressure,103.0,mm[Hg]
+2025-11-05T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,8302-2,Body Height,159.6,cm
+2025-11-05T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,29463-7,Body Weight,73.1,kg
+2025-11-05T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2
+2025-11-05T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,8462-4,Diastolic Blood Pressure,62.0,mm[Hg]
+2025-11-05T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,8480-6,Systolic Blood Pressure,101.0,mm[Hg]
+2025-11-05T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,89.7,mL/min/{1.73_m2}
+2025-11-06T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,8302-2,Body Height,164.2,cm
+2025-11-06T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,29463-7,Body Weight,26.7,kg
+2025-11-06T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,39156-5,Body mass index (BMI) [Ratio],9.9,kg/m2
+2025-11-06T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,8462-4,Diastolic Blood Pressure,69.0,mm[Hg]
+2025-11-06T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,8480-6,Systolic Blood Pressure,107.0,mm[Hg]
+2025-11-09T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,8302-2,Body Height,153.2,cm
+2025-11-09T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,29463-7,Body Weight,65.4,kg
+2025-11-09T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,39156-5,Body mass index (BMI) [Ratio],27.9,kg/m2
+2025-11-09T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2025-11-09T23:13:31Z,46ee9d82-b52c-856d-069b-5064ff052225,8480-6,Systolic Blood Pressure,117.0,mm[Hg]
+2025-11-10T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,8302-2,Body Height,180.0,cm
+2025-11-10T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,29463-7,Body Weight,94.4,kg
+2025-11-10T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,39156-5,Body mass index (BMI) [Ratio],29.2,kg/m2
+2025-11-10T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2025-11-10T20:55:07Z,f32a088b-988b-d7d5-008b-89ea4ed1fc48,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2025-11-15T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,8302-2,Body Height,160.8,cm
+2025-11-15T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,29463-7,Body Weight,73.8,kg
+2025-11-15T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,39156-5,Body mass index (BMI) [Ratio],28.5,kg/m2
+2025-11-15T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,8462-4,Diastolic Blood Pressure,66.0,mm[Hg]
+2025-11-15T15:44:38Z,d57841fa-c9e2-a3d1-0e78-09bdbe4eed66,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2025-11-17T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,8302-2,Body Height,176.1,cm
+2025-11-17T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,29463-7,Body Weight,84.6,kg
+2025-11-17T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,39156-5,Body mass index (BMI) [Ratio],27.3,kg/m2
+2025-11-17T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,8462-4,Diastolic Blood Pressure,79.0,mm[Hg]
+2025-11-17T05:00:17Z,a060ad2b-a93a-a1a6-b3ae-e187655ab0a3,8480-6,Systolic Blood Pressure,126.0,mm[Hg]
+2025-11-18T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,8302-2,Body Height,152.7,cm
+2025-11-18T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,29463-7,Body Weight,70.4,kg
+2025-11-18T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2025-11-18T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2025-11-18T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,8480-6,Systolic Blood Pressure,130.0,mm[Hg]
+2025-12-03T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,8302-2,Body Height,163.1,cm
+2025-12-03T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,29463-7,Body Weight,52.8,kg
+2025-12-03T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,39156-5,Body mass index (BMI) [Ratio],19.8,kg/m2
+2025-12-03T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2025-12-03T20:41:27Z,46976cf7-b0bf-be20-39a5-9f425a52886d,8480-6,Systolic Blood Pressure,104.0,mm[Hg]
+2025-12-10T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,8302-2,Body Height,154.2,cm
+2025-12-10T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,29463-7,Body Weight,53.0,kg
+2025-12-10T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,39156-5,Body mass index (BMI) [Ratio],22.3,kg/m2
+2025-12-10T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2025-12-10T07:52:29Z,4e3a6f7b-ffb9-5478-ae0f-e03a42891892,8480-6,Systolic Blood Pressure,129.0,mm[Hg]
+2025-12-14T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,8302-2,Body Height,158.1,cm
+2025-12-14T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,29463-7,Body Weight,72.4,kg
+2025-12-14T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,39156-5,Body mass index (BMI) [Ratio],29.0,kg/m2
+2025-12-14T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,8462-4,Diastolic Blood Pressure,93.0,mm[Hg]
+2025-12-14T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,8480-6,Systolic Blood Pressure,135.0,mm[Hg]
+2025-12-14T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,718-7,Hemoglobin [Mass/volume] in Blood,12.3,g/dL
+2025-12-14T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,777-3,Platelets [#/volume] in Blood by Automated count,296.4,10*3/uL
+2025-12-14T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,109.8,mL/min/{1.73_m2}
+2025-12-14T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,8302-2,Body Height,173.9,cm
+2025-12-14T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,29463-7,Body Weight,89.9,kg
+2025-12-14T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,39156-5,Body mass index (BMI) [Ratio],29.7,kg/m2
+2025-12-14T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,8462-4,Diastolic Blood Pressure,96.0,mm[Hg]
+2025-12-14T18:38:56Z,20526ee7-17ba-b863-b5f1-776defcde2e6,8480-6,Systolic Blood Pressure,104.0,mm[Hg]
+2025-12-17T09:45:07Z,62f60bdb-cc5c-8305-b98b-f2b229a55eca,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,71.9,mL/min
+2025-12-25T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,8302-2,Body Height,182.8,cm
+2025-12-25T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,29463-7,Body Weight,101.2,kg
+2025-12-25T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,39156-5,Body mass index (BMI) [Ratio],30.3,kg/m2
+2025-12-25T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2025-12-25T03:13:32Z,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,8480-6,Systolic Blood Pressure,106.0,mm[Hg]
+2025-12-25T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,8302-2,Body Height,167.2,cm
+2025-12-25T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,29463-7,Body Weight,84.2,kg
+2025-12-25T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2025-12-25T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2025-12-25T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,8480-6,Systolic Blood Pressure,137.0,mm[Hg]
+2025-12-30T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,8302-2,Body Height,166.7,cm
+2025-12-30T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,29463-7,Body Weight,76.2,kg
+2025-12-30T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2025-12-30T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2025-12-30T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,8480-6,Systolic Blood Pressure,109.0,mm[Hg]
+2025-12-30T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,718-7,Hemoglobin [Mass/volume] in Blood,12.6,g/dL
+2025-12-30T19:02:51Z,e4dffd18-650e-d1a9-f0bb-df102547605e,777-3,Platelets [#/volume] in Blood by Automated count,400.7,10*3/uL
+2026-01-09T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,8302-2,Body Height,178.1,cm
+2026-01-09T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,29463-7,Body Weight,94.9,kg
+2026-01-09T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,39156-5,Body mass index (BMI) [Ratio],29.9,kg/m2
+2026-01-09T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2026-01-09T08:18:12Z,35504b14-396f-54c6-e528-07c3c67058aa,8480-6,Systolic Blood Pressure,142.0,mm[Hg]
+2026-01-15T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,8302-2,Body Height,163.0,cm
+2026-01-15T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,29463-7,Body Weight,73.4,kg
+2026-01-15T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,39156-5,Body mass index (BMI) [Ratio],27.6,kg/m2
+2026-01-15T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2026-01-15T12:49:49Z,e74367bd-7385-97dc-2c7f-251b4cd9fe29,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2026-01-23T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,8302-2,Body Height,161.7,cm
+2026-01-23T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,29463-7,Body Weight,78.9,kg
+2026-01-23T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2026-01-23T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,8462-4,Diastolic Blood Pressure,71.0,mm[Hg]
+2026-01-23T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,8480-6,Systolic Blood Pressure,95.0,mm[Hg]
+2026-01-23T13:16:47Z,18836c82-1612-8de1-b2f4-b939c299e097,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,157.3,mL/min/{1.73_m2}
+2026-01-26T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,8302-2,Body Height,187.9,cm
+2026-01-26T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,29463-7,Body Weight,98.9,kg
+2026-01-26T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,39156-5,Body mass index (BMI) [Ratio],28.0,kg/m2
+2026-01-26T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,8462-4,Diastolic Blood Pressure,69.0,mm[Hg]
+2026-01-26T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,8480-6,Systolic Blood Pressure,110.0,mm[Hg]
+2026-01-26T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,718-7,Hemoglobin [Mass/volume] in Blood,13.4,g/dL
+2026-01-26T20:11:23Z,ce2e160d-4a41-c64a-859f-2653d0ec39ad,777-3,Platelets [#/volume] in Blood by Automated count,426.5,10*3/uL
+2026-02-02T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,8302-2,Body Height,162.4,cm
+2026-02-02T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,29463-7,Body Weight,80.1,kg
+2026-02-02T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2026-02-02T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,8462-4,Diastolic Blood Pressure,71.0,mm[Hg]
+2026-02-02T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,8480-6,Systolic Blood Pressure,125.0,mm[Hg]
+2026-02-02T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,87.0,mL/min/{1.73_m2}
+2026-02-03T09:28:47Z,715724a5-2018-a4ef-8f62-42ec13f9c91d,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,67.6,mL/min
+2026-02-04T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,8302-2,Body Height,170.9,cm
+2026-02-04T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,29463-7,Body Weight,80.4,kg
+2026-02-04T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,39156-5,Body mass index (BMI) [Ratio],27.5,kg/m2
+2026-02-04T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,8462-4,Diastolic Blood Pressure,75.0,mm[Hg]
+2026-02-04T21:17:54Z,483e25a3-67ac-6cf9-d374-28ee0adc2035,8480-6,Systolic Blood Pressure,101.0,mm[Hg]
+2026-02-08T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,8302-2,Body Height,153.2,cm
+2026-02-08T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,29463-7,Body Weight,65.5,kg
+2026-02-08T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,39156-5,Body mass index (BMI) [Ratio],27.9,kg/m2
+2026-02-08T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,8462-4,Diastolic Blood Pressure,70.0,mm[Hg]
+2026-02-08T16:52:37Z,7811dc30-8c86-8164-6c33-6b6f464745ef,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2026-02-10T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,8302-2,Body Height,162.4,cm
+2026-02-10T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,29463-7,Body Weight,74.4,kg
+2026-02-10T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,39156-5,Body mass index (BMI) [Ratio],28.2,kg/m2
+2026-02-10T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,8462-4,Diastolic Blood Pressure,94.0,mm[Hg]
+2026-02-10T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,8480-6,Systolic Blood Pressure,128.0,mm[Hg]
+2026-02-20T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,8302-2,Body Height,172.0,cm
+2026-02-20T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,29463-7,Body Weight,80.3,kg
+2026-02-20T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,39156-5,Body mass index (BMI) [Ratio],27.1,kg/m2
+2026-02-20T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,8462-4,Diastolic Blood Pressure,89.0,mm[Hg]
+2026-02-20T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2026-02-20T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,718-7,Hemoglobin [Mass/volume] in Blood,14.0,g/dL
+2026-02-20T02:56:07Z,2c167999-289d-95fa-5c27-7d8b8d35348c,777-3,Platelets [#/volume] in Blood by Automated count,160.9,10*3/uL
+2026-02-21T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,8302-2,Body Height,163.5,cm
+2026-02-21T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,29463-7,Body Weight,83.4,kg
+2026-02-21T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,39156-5,Body mass index (BMI) [Ratio],31.2,kg/m2
+2026-02-21T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2026-02-21T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,8480-6,Systolic Blood Pressure,123.0,mm[Hg]
+2026-02-21T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,8302-2,Body Height,157.4,cm
+2026-02-21T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,29463-7,Body Weight,69.6,kg
+2026-02-21T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,39156-5,Body mass index (BMI) [Ratio],28.1,kg/m2
+2026-02-21T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,8462-4,Diastolic Blood Pressure,68.0,mm[Hg]
+2026-02-21T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,8480-6,Systolic Blood Pressure,84.0,mm[Hg]
+2026-02-21T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,718-7,Hemoglobin [Mass/volume] in Blood,14.2,g/dL
+2026-02-21T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,777-3,Platelets [#/volume] in Blood by Automated count,310.9,10*3/uL
+2026-02-21T23:34:43Z,d56d5655-2596-9bf6-4d4a-f62aa25c944a,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,115.4,mL/min/{1.73_m2}
+2026-03-03T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,8302-2,Body Height,176.5,cm
+2026-03-03T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,29463-7,Body Weight,89.1,kg
+2026-03-03T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,39156-5,Body mass index (BMI) [Ratio],28.6,kg/m2
+2026-03-03T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,8462-4,Diastolic Blood Pressure,93.0,mm[Hg]
+2026-03-03T16:38:07Z,6aed9210-c500-4375-b0fc-3374c40b8591,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2026-03-06T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,8302-2,Body Height,190.2,cm
+2026-03-06T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,29463-7,Body Weight,104.4,kg
+2026-03-06T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,39156-5,Body mass index (BMI) [Ratio],28.9,kg/m2
+2026-03-06T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2026-03-06T13:43:33Z,df2f3ddb-2760-b3c7-40be-f2fbee474089,8480-6,Systolic Blood Pressure,123.0,mm[Hg]
+2026-03-07T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,8302-2,Body Height,180.6,cm
+2026-03-07T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,29463-7,Body Weight,94.1,kg
+2026-03-07T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,39156-5,Body mass index (BMI) [Ratio],28.9,kg/m2
+2026-03-07T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2026-03-07T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2026-03-07T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,718-7,Hemoglobin [Mass/volume] in Blood,14.7,g/dL
+2026-03-07T02:49:52Z,8580a690-4d97-5739-4f07-788ad44e6f04,777-3,Platelets [#/volume] in Blood by Automated count,236.2,10*3/uL
+2026-03-11T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,8302-2,Body Height,174.6,cm
+2026-03-11T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,29463-7,Body Weight,86.2,kg
+2026-03-11T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,39156-5,Body mass index (BMI) [Ratio],28.3,kg/m2
+2026-03-11T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2026-03-11T00:52:38Z,cf22cde5-48e9-1907-78ec-42abd6782fbe,8480-6,Systolic Blood Pressure,121.0,mm[Hg]
+2026-03-12T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,8302-2,Body Height,163.2,cm
+2026-03-12T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,29463-7,Body Weight,79.0,kg
+2026-03-12T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,39156-5,Body mass index (BMI) [Ratio],29.7,kg/m2
+2026-03-12T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2026-03-12T16:32:02Z,f95a6723-14a5-c4b6-78df-fa97f7ab361c,8480-6,Systolic Blood Pressure,116.0,mm[Hg]
+2026-03-27T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,8302-2,Body Height,173.1,cm
+2026-03-27T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,29463-7,Body Weight,91.2,kg
+2026-03-27T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2026-03-27T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,8462-4,Diastolic Blood Pressure,78.0,mm[Hg]
+2026-03-27T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,8480-6,Systolic Blood Pressure,102.0,mm[Hg]
+2026-03-27T03:59:34Z,2f859009-859b-fa56-b2f3-9abc78ace787,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,117.8,mL/min/{1.73_m2}
+2026-03-28T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,8302-2,Body Height,159.2,cm
+2026-03-28T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,29463-7,Body Weight,76.3,kg
+2026-03-28T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2026-03-28T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2026-03-28T09:38:22Z,f6551cf2-a3ff-3194-689c-5f8b162050a1,8480-6,Systolic Blood Pressure,142.0,mm[Hg]
+2026-03-30T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,8302-2,Body Height,186.4,cm
+2026-03-30T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,29463-7,Body Weight,134.9,kg
+2026-03-30T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,39156-5,Body mass index (BMI) [Ratio],38.8,kg/m2
+2026-03-30T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,8462-4,Diastolic Blood Pressure,105.0,mm[Hg]
+2026-03-30T11:01:33Z,080b069b-5108-46b6-ecef-6aacd3b9ef3f,8480-6,Systolic Blood Pressure,150.0,mm[Hg]
+2026-04-11T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,8302-2,Body Height,173.5,cm
+2026-04-11T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,29463-7,Body Weight,99.2,kg
+2026-04-11T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,39156-5,Body mass index (BMI) [Ratio],32.9,kg/m2
+2026-04-11T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2026-04-11T02:11:33Z,b030e4fd-ddca-e127-00bb-0d64d7d8d246,8480-6,Systolic Blood Pressure,135.0,mm[Hg]
+2026-04-22T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,8302-2,Body Height,157.4,cm
+2026-04-22T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,29463-7,Body Weight,69.5,kg
+2026-04-22T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,39156-5,Body mass index (BMI) [Ratio],28.1,kg/m2
+2026-04-22T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,8462-4,Diastolic Blood Pressure,77.0,mm[Hg]
+2026-04-22T00:04:36Z,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,8480-6,Systolic Blood Pressure,107.0,mm[Hg]
+2026-04-22T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,8302-2,Body Height,169.5,cm
+2026-04-22T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,29463-7,Body Weight,69.8,kg
+2026-04-22T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,39156-5,Body mass index (BMI) [Ratio],24.3,kg/m2
+2026-04-22T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,8462-4,Diastolic Blood Pressure,88.0,mm[Hg]
+2026-04-22T09:23:33Z,f7adc5f3-fc3c-f928-7cd1-d8d3a49f3c38,8480-6,Systolic Blood Pressure,109.0,mm[Hg]
+2026-04-23T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,8302-2,Body Height,173.1,cm
+2026-04-23T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,29463-7,Body Weight,89.9,kg
+2026-04-23T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,39156-5,Body mass index (BMI) [Ratio],30.0,kg/m2
+2026-04-23T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,8462-4,Diastolic Blood Pressure,91.0,mm[Hg]
+2026-04-23T05:44:24Z,f0af24ba-22df-a2a6-ca80-9814fb6febff,8480-6,Systolic Blood Pressure,114.0,mm[Hg]
+2026-04-25T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,8302-2,Body Height,163.8,cm
+2026-04-25T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,29463-7,Body Weight,75.7,kg
+2026-04-25T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,39156-5,Body mass index (BMI) [Ratio],28.2,kg/m2
+2026-04-25T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2026-04-25T18:32:19Z,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,8480-6,Systolic Blood Pressure,107.0,mm[Hg]
+2026-04-27T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,8302-2,Body Height,153.2,cm
+2026-04-27T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,29463-7,Body Weight,67.7,kg
+2026-04-27T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,39156-5,Body mass index (BMI) [Ratio],28.8,kg/m2
+2026-04-27T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,8462-4,Diastolic Blood Pressure,90.0,mm[Hg]
+2026-04-27T03:17:32Z,f9dd6522-9d7a-93cd-c9c9-4fe118627441,8480-6,Systolic Blood Pressure,123.0,mm[Hg]
+2026-04-27T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,8302-2,Body Height,177.2,cm
+2026-04-27T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,29463-7,Body Weight,94.6,kg
+2026-04-27T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2026-04-27T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,8462-4,Diastolic Blood Pressure,74.0,mm[Hg]
+2026-04-27T13:52:10Z,b6a1cac9-8873-36a7-e726-4aad8a07d44d,8480-6,Systolic Blood Pressure,116.0,mm[Hg]
+2026-04-27T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,8302-2,Body Height,158.3,cm
+2026-04-27T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,29463-7,Body Weight,74.6,kg
+2026-04-27T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,39156-5,Body mass index (BMI) [Ratio],29.8,kg/m2
+2026-04-27T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2026-04-27T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,8480-6,Systolic Blood Pressure,127.0,mm[Hg]
+2026-04-27T15:56:18Z,982750f4-569b-5949-196b-60699bdda3fb,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,139.1,mL/min/{1.73_m2}
+2026-05-02T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,8302-2,Body Height,164.0,cm
+2026-05-02T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,29463-7,Body Weight,73.6,kg
+2026-05-02T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2026-05-02T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,8462-4,Diastolic Blood Pressure,67.0,mm[Hg]
+2026-05-02T19:49:51Z,50b95daa-11fb-fb1d-f3aa-70e2d777e5ba,8480-6,Systolic Blood Pressure,99.0,mm[Hg]
+2026-05-11T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,8302-2,Body Height,175.0,cm
+2026-05-11T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,29463-7,Body Weight,88.3,kg
+2026-05-11T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,39156-5,Body mass index (BMI) [Ratio],28.8,kg/m2
+2026-05-11T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,8462-4,Diastolic Blood Pressure,73.0,mm[Hg]
+2026-05-11T20:00:48Z,b27ee48d-2590-6e78-ee68-28a31a2b37e1,8480-6,Systolic Blood Pressure,100.0,mm[Hg]
+2026-05-14T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,8302-2,Body Height,163.7,cm
+2026-05-14T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,29463-7,Body Weight,81.2,kg
+2026-05-14T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,39156-5,Body mass index (BMI) [Ratio],30.3,kg/m2
+2026-05-14T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2026-05-14T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2026-05-14T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,718-7,Hemoglobin [Mass/volume] in Blood,17.4,g/dL
+2026-05-14T18:04:07Z,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,777-3,Platelets [#/volume] in Blood by Automated count,328.7,10*3/uL
+2026-05-24T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,8302-2,Body Height,189.3,cm
+2026-05-24T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,29463-7,Body Weight,98.0,kg
+2026-05-24T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2026-05-24T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,8462-4,Diastolic Blood Pressure,75.0,mm[Hg]
+2026-05-24T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2026-05-24T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,718-7,Hemoglobin [Mass/volume] in Blood,14.7,g/dL
+2026-05-24T17:31:42Z,bec25def-e2ce-2fe3-4022-747293bc775e,777-3,Platelets [#/volume] in Blood by Automated count,254.9,10*3/uL
+2026-05-27T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,8302-2,Body Height,159.6,cm
+2026-05-27T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,29463-7,Body Weight,73.9,kg
+2026-05-27T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,39156-5,Body mass index (BMI) [Ratio],29.0,kg/m2
+2026-05-27T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,8462-4,Diastolic Blood Pressure,58.0,mm[Hg]
+2026-05-27T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,8480-6,Systolic Blood Pressure,104.0,mm[Hg]
+2026-05-27T13:21:22Z,322ab5c6-5846-ac1e-38cc-48b8cb441e20,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,61.2,mL/min/{1.73_m2}
+2026-05-31T09:02:55Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,10.8,mL/min
+2026-05-31T21:02:55Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,718-7,Hemoglobin [Mass/volume] in Blood,11.4,g/dL
+2026-05-31T21:02:55Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,777-3,Platelets [#/volume] in Blood by Automated count,137.4,10*3/uL
+2026-05-31T21:02:55Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,7.1,mL/min
+2026-06-01T09:09:29Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,718-7,Hemoglobin [Mass/volume] in Blood,13.8,g/dL
+2026-06-01T09:09:29Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,777-3,Platelets [#/volume] in Blood by Automated count,117.1,10*3/uL
+2026-06-01T09:09:29Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,6.8,mL/min
+2026-06-05T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,8302-2,Body Height,162.7,cm
+2026-06-05T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,29463-7,Body Weight,71.6,kg
+2026-06-05T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,39156-5,Body mass index (BMI) [Ratio],27.1,kg/m2
+2026-06-05T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,8462-4,Diastolic Blood Pressure,93.0,mm[Hg]
+2026-06-05T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2026-06-06T06:00:57Z,96a88082-137f-80a2-5283-862ed9b56be9,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,66.3,mL/min
+2026-06-09T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,85.7,mL/min
+2026-06-09T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,8302-2,Body Height,167.7,cm
+2026-06-09T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,29463-7,Body Weight,106.1,kg
+2026-06-09T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,39156-5,Body mass index (BMI) [Ratio],37.7,kg/m2
+2026-06-09T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,8462-4,Diastolic Blood Pressure,73.0,mm[Hg]
+2026-06-09T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,8480-6,Systolic Blood Pressure,131.0,mm[Hg]
+2026-06-09T01:32:45Z,13bbd9ac-5c42-f173-5411-4e30e7da9e8d,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,136.1,mL/min/{1.73_m2}
+2026-06-13T09:29:49Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,8462-4,Diastolic Blood Pressure,94.8,mm[Hg]
+2026-06-13T09:29:49Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,8480-6,Systolic Blood Pressure,144.9,mm[Hg]
+2026-06-13T10:24:03Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,718-7,Hemoglobin [Mass/volume] in Blood,12.6,g/dL
+2026-06-13T10:24:03Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,777-3,Platelets [#/volume] in Blood by Automated count,345.3,10*3/uL
+2026-06-13T10:34:03Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,5.6,mL/min
+2026-06-19T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,8302-2,Body Height,170.6,cm
+2026-06-19T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,29463-7,Body Weight,87.9,kg
+2026-06-19T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2026-06-19T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,8462-4,Diastolic Blood Pressure,67.0,mm[Hg]
+2026-06-19T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,8480-6,Systolic Blood Pressure,97.0,mm[Hg]
+2026-06-19T05:26:22Z,591bb3da-95a6-536e-174d-2be8187de6e9,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,142.1,mL/min/{1.73_m2}
+2026-06-23T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,8302-2,Body Height,172.2,cm
+2026-06-23T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,29463-7,Body Weight,90.0,kg
+2026-06-23T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2026-06-23T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,8462-4,Diastolic Blood Pressure,70.0,mm[Hg]
+2026-06-23T18:47:31Z,65481d89-085e-6e71-6b36-0b9e9d1996c5,8480-6,Systolic Blood Pressure,118.0,mm[Hg]
+2026-06-26T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,8302-2,Body Height,169.7,cm
+2026-06-26T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,29463-7,Body Weight,69.3,kg
+2026-06-26T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,39156-5,Body mass index (BMI) [Ratio],24.1,kg/m2
+2026-06-26T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,8462-4,Diastolic Blood Pressure,85.0,mm[Hg]
+2026-06-26T01:07:44Z,1da1ccef-4f88-f506-730e-c4189e2e5539,8480-6,Systolic Blood Pressure,112.0,mm[Hg]
+2026-06-26T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,90.7,mL/min/{1.73_m2}
+2026-06-26T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,8302-2,Body Height,170.6,cm
+2026-06-26T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,29463-7,Body Weight,79.8,kg
+2026-06-26T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2
+2026-06-26T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,8462-4,Diastolic Blood Pressure,75.0,mm[Hg]
+2026-06-26T17:32:59Z,a2fb233f-60e0-b477-cd38-af3923f792a3,8480-6,Systolic Blood Pressure,105.0,mm[Hg]
+2026-07-08T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,8302-2,Body Height,176.6,cm
+2026-07-08T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,29463-7,Body Weight,84.1,kg
+2026-07-08T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,39156-5,Body mass index (BMI) [Ratio],27.0,kg/m2
+2026-07-08T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2026-07-08T13:49:07Z,922fb35e-148d-9e82-7e65-bfa05e3b3515,8480-6,Systolic Blood Pressure,125.0,mm[Hg]
+2026-07-14T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,8302-2,Body Height,162.4,cm
+2026-07-14T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,29463-7,Body Weight,75.2,kg
+2026-07-14T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,39156-5,Body mass index (BMI) [Ratio],28.5,kg/m2
+2026-07-14T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,8462-4,Diastolic Blood Pressure,92.0,mm[Hg]
+2026-07-14T03:15:17Z,230e2e4b-7c47-45f7-4cb3-e52873359b5a,8480-6,Systolic Blood Pressure,132.0,mm[Hg]
+2026-07-18T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,8302-2,Body Height,176.5,cm
+2026-07-18T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,29463-7,Body Weight,87.4,kg
+2026-07-18T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,39156-5,Body mass index (BMI) [Ratio],28.1,kg/m2
+2026-07-18T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,8462-4,Diastolic Blood Pressure,65.0,mm[Hg]
+2026-07-18T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,8480-6,Systolic Blood Pressure,78.0,mm[Hg]
+2026-07-18T17:59:57Z,0399299d-024a-c139-e8b4-6ae7c67bc004,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,87.0,mL/min/{1.73_m2}
+2026-07-19T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,8302-2,Body Height,150.0,cm
+2026-07-19T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,29463-7,Body Weight,67.6,kg
+2026-07-19T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,39156-5,Body mass index (BMI) [Ratio],30.0,kg/m2
+2026-07-19T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,8462-4,Diastolic Blood Pressure,87.0,mm[Hg]
+2026-07-19T14:58:07Z,e632520a-2e4f-3419-c0f1-1f7b89f11d9c,8480-6,Systolic Blood Pressure,130.0,mm[Hg]
+2026-07-30T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,8302-2,Body Height,152.6,cm
+2026-07-30T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,29463-7,Body Weight,47.4,kg
+2026-07-30T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,39156-5,Body mass index (BMI) [Ratio],20.4,kg/m2
+2026-07-30T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,8462-4,Diastolic Blood Pressure,82.0,mm[Hg]
+2026-07-30T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2026-08-02T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,8302-2,Body Height,172.7,cm
+2026-08-02T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,29463-7,Body Weight,81.9,kg
+2026-08-02T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,39156-5,Body mass index (BMI) [Ratio],27.5,kg/m2
+2026-08-02T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,8462-4,Diastolic Blood Pressure,92.0,mm[Hg]
+2026-08-02T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,8480-6,Systolic Blood Pressure,116.0,mm[Hg]
+2026-08-02T14:04:44Z,9dc02e0c-624b-81c6-4648-829d5074bf90,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,130.0,mL/min/{1.73_m2}
+2026-08-07T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,8302-2,Body Height,178.1,cm
+2026-08-07T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,29463-7,Body Weight,86.6,kg
+2026-08-07T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,39156-5,Body mass index (BMI) [Ratio],27.3,kg/m2
+2026-08-07T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,8462-4,Diastolic Blood Pressure,87.0,mm[Hg]
+2026-08-07T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,8480-6,Systolic Blood Pressure,124.0,mm[Hg]
+2026-08-07T15:15:35Z,7a9cfca3-f10b-036a-cc66-c61baba2c0e3,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,156.8,mL/min/{1.73_m2}
+2026-08-09T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,8302-2,Body Height,158.1,cm
+2026-08-09T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,29463-7,Body Weight,73.6,kg
+2026-08-09T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,39156-5,Body mass index (BMI) [Ratio],29.4,kg/m2
+2026-08-09T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,8462-4,Diastolic Blood Pressure,91.0,mm[Hg]
+2026-08-09T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,8480-6,Systolic Blood Pressure,130.0,mm[Hg]
+2026-08-09T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,71.7,mL/min/{1.73_m2}
+2026-08-15T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,8302-2,Body Height,156.3,cm
+2026-08-15T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,29463-7,Body Weight,80.3,kg
+2026-08-15T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,39156-5,Body mass index (BMI) [Ratio],32.9,kg/m2
+2026-08-15T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2026-08-15T20:12:57Z,dd9da64b-7b38-4f91-e75d-b1268dde60d4,8480-6,Systolic Blood Pressure,104.0,mm[Hg]
+2026-08-21T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,8302-2,Body Height,180.8,cm
+2026-08-21T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,29463-7,Body Weight,97.8,kg
+2026-08-21T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,39156-5,Body mass index (BMI) [Ratio],29.9,kg/m2
+2026-08-21T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,8462-4,Diastolic Blood Pressure,73.0,mm[Hg]
+2026-08-21T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,8480-6,Systolic Blood Pressure,94.0,mm[Hg]
+2026-08-23T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,8302-2,Body Height,178.1,cm
+2026-08-23T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,29463-7,Body Weight,79.8,kg
+2026-08-23T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,39156-5,Body mass index (BMI) [Ratio],25.1,kg/m2
+2026-08-23T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,8462-4,Diastolic Blood Pressure,78.0,mm[Hg]
+2026-08-23T04:09:10Z,a56f7570-fa42-cebe-bded-330118a4268c,8480-6,Systolic Blood Pressure,113.0,mm[Hg]
+2026-08-23T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,8302-2,Body Height,158.1,cm
+2026-08-23T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,29463-7,Body Weight,73.7,kg
+2026-08-23T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,39156-5,Body mass index (BMI) [Ratio],29.5,kg/m2
+2026-08-23T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,8462-4,Diastolic Blood Pressure,88.0,mm[Hg]
+2026-08-23T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,8480-6,Systolic Blood Pressure,130.0,mm[Hg]
+2026-08-23T06:54:19Z,4760e5e7-fa82-b084-95cb-bb4564d42496,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,153.0,mL/min/{1.73_m2}
+2026-08-24T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,8302-2,Body Height,167.2,cm
+2026-08-24T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,29463-7,Body Weight,84.1,kg
+2026-08-24T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2026-08-24T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,8462-4,Diastolic Blood Pressure,87.0,mm[Hg]
+2026-08-24T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,8480-6,Systolic Blood Pressure,140.0,mm[Hg]
+2026-08-24T14:46:18Z,bff9d9d5-ee3d-d852-9c67-36d8361a4a4a,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,85.9,mL/min
+2026-08-30T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,8302-2,Body Height,179.4,cm
+2026-08-30T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,29463-7,Body Weight,98.4,kg
+2026-08-30T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,39156-5,Body mass index (BMI) [Ratio],30.6,kg/m2
+2026-08-30T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,8462-4,Diastolic Blood Pressure,71.0,mm[Hg]
+2026-08-30T20:53:47Z,55133401-cd51-32bc-3046-82cb0a11d3da,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2026-09-05T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,8302-2,Body Height,163.5,cm
+2026-09-05T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,29463-7,Body Weight,83.4,kg
+2026-09-05T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,39156-5,Body mass index (BMI) [Ratio],31.2,kg/m2
+2026-09-05T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2026-09-05T01:48:53Z,6bc4cd5d-0216-17a9-8192-ac2209957d3a,8480-6,Systolic Blood Pressure,123.0,mm[Hg]
+2026-09-05T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,78.9,mL/min/{1.73_m2}
+2026-09-05T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,8302-2,Body Height,177.4,cm
+2026-09-05T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,29463-7,Body Weight,95.7,kg
+2026-09-05T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,39156-5,Body mass index (BMI) [Ratio],30.4,kg/m2
+2026-09-05T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,8462-4,Diastolic Blood Pressure,84.0,mm[Hg]
+2026-09-05T20:55:46Z,c0a47dee-cc72-29ce-df5a-ea6d306c36a4,8480-6,Systolic Blood Pressure,133.0,mm[Hg]
+2026-09-12T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,8302-2,Body Height,182.6,cm
+2026-09-12T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,29463-7,Body Weight,95.6,kg
+2026-09-12T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2
+2026-09-12T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,8462-4,Diastolic Blood Pressure,75.0,mm[Hg]
+2026-09-12T02:28:03Z,d3cb6736-0991-40ed-a220-7c714aba4c37,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2026-09-12T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,8302-2,Body Height,185.2,cm
+2026-09-12T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,29463-7,Body Weight,101.7,kg
+2026-09-12T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,39156-5,Body mass index (BMI) [Ratio],29.7,kg/m2
+2026-09-12T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,8462-4,Diastolic Blood Pressure,65.0,mm[Hg]
+2026-09-12T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,8480-6,Systolic Blood Pressure,95.0,mm[Hg]
+2026-09-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,8302-2,Body Height,170.3,cm
+2026-09-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,29463-7,Body Weight,65.8,kg
+2026-09-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,39156-5,Body mass index (BMI) [Ratio],22.7,kg/m2
+2026-09-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,8462-4,Diastolic Blood Pressure,72.0,mm[Hg]
+2026-09-17T01:51:27Z,76a1559f-a83a-59b9-ed07-4efd4a0f1b39,8480-6,Systolic Blood Pressure,110.0,mm[Hg]
+2026-09-18T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,8302-2,Body Height,166.4,cm
+2026-09-18T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,29463-7,Body Weight,83.5,kg
+2026-09-18T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2026-09-18T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2026-09-18T23:38:41Z,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,8480-6,Systolic Blood Pressure,118.0,mm[Hg]
+2026-09-19T15:07:33Z,c86c400e-ff88-a1e3-2e23-caa4d8311f47,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,81.1,mL/min
+2026-09-21T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,60.3,mL/min/{1.73_m2}
+2026-09-21T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,8302-2,Body Height,167.2,cm
+2026-09-21T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,29463-7,Body Weight,84.1,kg
+2026-09-21T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2026-09-21T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,8462-4,Diastolic Blood Pressure,88.0,mm[Hg]
+2026-09-21T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,8480-6,Systolic Blood Pressure,138.0,mm[Hg]
+2026-09-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,8302-2,Body Height,152.6,cm
+2026-09-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,29463-7,Body Weight,47.4,kg
+2026-09-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,39156-5,Body mass index (BMI) [Ratio],20.4,kg/m2
+2026-09-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2026-09-24T17:27:52Z,9255b577-57ec-5114-269d-ae0e5e12f290,8480-6,Systolic Blood Pressure,115.0,mm[Hg]
+2026-09-27T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,8302-2,Body Height,162.7,cm
+2026-09-27T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,29463-7,Body Weight,80.0,kg
+2026-09-27T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,39156-5,Body mass index (BMI) [Ratio],30.2,kg/m2
+2026-09-27T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,8462-4,Diastolic Blood Pressure,74.0,mm[Hg]
+2026-09-27T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,8480-6,Systolic Blood Pressure,112.0,mm[Hg]
+2026-09-27T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,718-7,Hemoglobin [Mass/volume] in Blood,13.2,g/dL
+2026-09-27T23:20:09Z,eb5910f1-26e6-bc6f-b300-716eae678d6f,777-3,Platelets [#/volume] in Blood by Automated count,207.2,10*3/uL
+2026-09-28T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,8302-2,Body Height,160.5,cm
+2026-09-28T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,29463-7,Body Weight,64.8,kg
+2026-09-28T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,39156-5,Body mass index (BMI) [Ratio],25.2,kg/m2
+2026-09-28T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,8462-4,Diastolic Blood Pressure,80.0,mm[Hg]
+2026-09-28T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,8480-6,Systolic Blood Pressure,135.0,mm[Hg]
+2026-09-28T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,718-7,Hemoglobin [Mass/volume] in Blood,15.3,g/dL
+2026-09-28T00:58:48Z,e89af71d-4aa4-2237-e71d-6fa8e4b5af09,777-3,Platelets [#/volume] in Blood by Automated count,438.1,10*3/uL
+2026-09-28T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,88.6,mL/min/{1.73_m2}
+2026-10-01T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,8302-2,Body Height,164.2,cm
+2026-10-01T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,29463-7,Body Weight,26.7,kg
+2026-10-01T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,39156-5,Body mass index (BMI) [Ratio],9.9,kg/m2
+2026-10-01T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,8462-4,Diastolic Blood Pressure,73.0,mm[Hg]
+2026-10-01T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,8480-6,Systolic Blood Pressure,116.0,mm[Hg]
+2026-10-01T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,718-7,Hemoglobin [Mass/volume] in Blood,12.3,g/dL
+2026-10-01T06:30:21Z,ba419d35-0dfe-8af7-347c-eebf02485a56,777-3,Platelets [#/volume] in Blood by Automated count,258.9,10*3/uL
+2026-10-06T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,8302-2,Body Height,152.0,cm
+2026-10-06T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,29463-7,Body Weight,64.5,kg
+2026-10-06T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,39156-5,Body mass index (BMI) [Ratio],27.9,kg/m2
+2026-10-06T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,8462-4,Diastolic Blood Pressure,78.0,mm[Hg]
+2026-10-06T04:13:53Z,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,8480-6,Systolic Blood Pressure,108.0,mm[Hg]
+2026-10-13T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,8302-2,Body Height,172.9,cm
+2026-10-13T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,29463-7,Body Weight,82.9,kg
+2026-10-13T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,39156-5,Body mass index (BMI) [Ratio],27.7,kg/m2
+2026-10-13T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,8462-4,Diastolic Blood Pressure,88.0,mm[Hg]
+2026-10-13T03:28:09Z,5efaa97c-4a6c-5f10-2c9c-8ffdefa57893,8480-6,Systolic Blood Pressure,135.0,mm[Hg]
+2026-10-15T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,8302-2,Body Height,174.6,cm
+2026-10-15T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,29463-7,Body Weight,88.1,kg
+2026-10-15T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,39156-5,Body mass index (BMI) [Ratio],28.9,kg/m2
+2026-10-15T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,8462-4,Diastolic Blood Pressure,60.0,mm[Hg]
+2026-10-15T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,8480-6,Systolic Blood Pressure,89.0,mm[Hg]
+2026-10-15T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,718-7,Hemoglobin [Mass/volume] in Blood,14.1,g/dL
+2026-10-15T14:53:26Z,aa616abe-1761-0c9a-7959-07544679dafd,777-3,Platelets [#/volume] in Blood by Automated count,369.7,10*3/uL
+2026-10-22T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,8302-2,Body Height,167.2,cm
+2026-10-22T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,29463-7,Body Weight,84.2,kg
+2026-10-22T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2026-10-22T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,8462-4,Diastolic Blood Pressure,81.0,mm[Hg]
+2026-10-22T12:37:50Z,a7b1943e-4400-ed7b-2b1f-67b40f8f36e2,8480-6,Systolic Blood Pressure,135.0,mm[Hg]
+2026-10-26T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,65.4,mL/min/{1.73_m2}
+2026-10-26T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,8302-2,Body Height,167.2,cm
+2026-10-26T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,29463-7,Body Weight,84.1,kg
+2026-10-26T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,39156-5,Body mass index (BMI) [Ratio],30.1,kg/m2
+2026-10-26T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,8462-4,Diastolic Blood Pressure,98.0,mm[Hg]
+2026-10-26T05:51:28Z,9661a432-4630-2cd9-142c-386845fae837,8480-6,Systolic Blood Pressure,132.0,mm[Hg]
+2026-10-27T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,8302-2,Body Height,160.8,cm
+2026-10-27T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,29463-7,Body Weight,73.2,kg
+2026-10-27T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,39156-5,Body mass index (BMI) [Ratio],28.3,kg/m2
+2026-10-27T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,8462-4,Diastolic Blood Pressure,83.0,mm[Hg]
+2026-10-27T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,8480-6,Systolic Blood Pressure,111.0,mm[Hg]
+2026-10-27T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,718-7,Hemoglobin [Mass/volume] in Blood,14.1,g/dL
+2026-10-27T00:15:01Z,6e6a4d89-4709-5549-d696-94a38122b047,777-3,Platelets [#/volume] in Blood by Automated count,152.9,10*3/uL

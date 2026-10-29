@@ -1,0 +1,49 @@
+# 시연용 가상 시나리오 (실제 환자 아님). expect = 반드시 떠야 하는 경고, absent = 뜨면 안 되는 경고.
+# tests/test_engine.py 가 이 파일로 회귀 테스트를 돌린다.
+cases:
+  - name: "저체중·저혈압 + 과거 채혈 실신"
+    exams: [blood_draw, xray]
+    fields: {age: 23, sex: F, height_cm: 163, weight_kg: 46, sbp: 88, dbp: 56, prior_syncope_blood: true, pregnancy: "no"}
+    expect: [A1]
+    absent: [A2, A3, A4, E2]
+
+  - name: "인슐린 사용 당뇨 + 공복 채혈·수면 위내시경"
+    exams: [blood_draw, sedation_egd]
+    fields: {age: 58, sex: M, diabetes: true, insulin: true, height_cm: 170, weight_kg: 72, sbp: 132, dbp: 80}
+    expect: [B1]
+    absent: [B3, G1, G2]
+
+  - name: "비만 + 코골이 + 수면 대장내시경"
+    exams: [blood_draw, sedation_colon]
+    fields: {age: 52, sex: M, height_cm: 172, weight_kg: 106, sbp: 146, dbp: 92, snoring: true, tired: true, hypertension: true}
+    expect: [G1]
+    absent: [G2]
+
+  - name: "eGFR 25 + 조영 CT"
+    exams: [ct_contrast, blood_draw]
+    fields: {age: 78, sex: M, ckd: true, egfr: 25, sbp: 128, dbp: 74}
+    expect: [C1, F2]
+    absent: [C2]
+
+  - name: "심박조율기 + MRI"
+    exams: [mri]
+    fields: {age: 77, sex: F, implant: true, cardiac_disease: true, mobility_aid: true}
+    expect: [D1, F1]
+    absent: [F2]
+
+  - name: "가임기 여성, 임신 가능성 모름 + 흉부 X-ray"
+    exams: [xray, blood_draw]
+    fields: {age: 31, sex: F, pregnancy: unknown}
+    expect: [E2]
+    absent: [E1]
+
+  - name: "항응고제 + 대장내시경 + 혈압 높음"
+    exams: [blood_draw, sedation_colon]
+    fields: {age: 68, sex: M, anticoagulant: true, sbp: 186, dbp: 98, height_cm: 168, weight_kg: 70}
+    expect: [A5, G3, G4]
+
+  - name: "위험 없음 (대조군)"
+    exams: [blood_draw, xray, sedation_egd]
+    fields: {age: 40, sex: M, height_cm: 175, weight_kg: 70, sbp: 118, dbp: 76, glucose_poc: 92}
+    expect: []
+    absent: [A1, A2, A3, A4, B1, B2, G1, G2, G3, F1, F2]
